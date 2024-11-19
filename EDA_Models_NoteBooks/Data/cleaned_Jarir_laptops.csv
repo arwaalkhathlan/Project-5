@@ -1,0 +1,178 @@
+Product Name,Product Price,Warranty Period(Months),Processor Type,Screen Size(inch),Operating System,product type,Color,Storage Capacity,RAM(GB),Network and Communication,Touch Display,Display Resolution,Battery Type
+Huawei MateBook 14,4299,24.0,Intel Core Ultra 5 125H,14.2,Windows 11 Home,Laptop,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi (6)/Bluetooth (5.1),Yes,2880 X 1920,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Space Grey,256 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Starlight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Asus,3799,24.0,AMD Ryzen 7-8840HS,14.0,Windows 11,Laptop,Jade Black,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Ion (Li-Ion) - 4 Cell
+Microsoft Surface  7,9699,24.0,Snapdragon X Elite 12 Core,15.0,Windows 11 Home,Laptop,Black,1 TB SSD,32,Wi-Fi (7)/Bluetooth (5.4),Yes,2496 x 1664,Lithium Ion (Li-Ion) - 6 Cell
+Asus Zenbook 14 OLED,4799,24.0,Intel Core Ultra 9 185H,14.0,Windows 11 Home,Laptop,Ponder Blue,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),No,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 4 Cell
+Asus Zenbook 14 OLED,3599,24.0,AMD Ryzen 7-7730U,14.0,Windows 11,Laptop,Jade Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,Wi-Fi/Bluetooth,No,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 4 Cell
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1600 (WQXGA),Lithium Ion Polymer (Li-Poly)
+HP Pavilion,4499,24.0,Intel Core Ultra 7 155U,16.0,Windows 11 Home,Laptop,Sky Blue,1 TB PCIe Gen4,16,Wi-Fi/Bluetooth,No,1920 X 1200,Lithium Ion (Li-Ion)
+MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Laptop,Urban Silver,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+HP Pavilion Plus 14-ew1009nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Laptop,Natural Silver,512 GB PCIe Gen 4 NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),No,2880 X 1800 (OLED),Lithium Ion Polymer (Li-Poly) - 4 Cell
+HP EliteBook 840 G10,4019,60.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Pro,Laptop,Ash Silver,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),No,1920 X 1080 (FHD),Lithium Polymer (Li-Po) - 3 Cell
+Huawei MateBook 14,3649,24.0,Intel Core i5-1240P (12th Gen),14.0,Windows 11,Laptop,Space Grey,512 GB,16,Wi-Fi/Bluetooth,Yes,2160 x 1440,Lithium Ion Polymer (Li-Poly)
+Apple MacBook Pro 14 M4 Pro Retina XDR,11399,24.0,M4 Pro 14-core CPU,14.2,macOS Sequoia,Laptop,Silver,1 TB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Laptop,Midnight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Laptop,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi (6)/Bluetooth (5.1),Yes,2880 X 1920,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Laptop,Silver,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1600 (WQXGA),Lithium Ion Polymer (Li-Poly)
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Starlight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Laptop,Sapphire,512 GB SSD,16,Wi-Fi (7)/Bluetooth (5.4),Yes,2304 X 1536,Lithium Ion (Li-Ion) - 6 Cell
+MSI Prestige 13 AI Evo A1MG,4329,24.0,Intel Core Ultra 7 155H,13.3,Windows 11 Home,Laptop,Stellar Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,Wi-Fi (7)/Bluetooth,No,2880 X 1800 (OLED),Lithium Polymer (Li-Po) - 4 Cell
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Laptop,Starlight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+HP OmniBook X,5499,24.0,Snapdragon X Elite,14.0,Windows 11 (with Windows 11 Copilot),Laptop,Meteor Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),Yes,2240 x 1400,Lithium Ion Polymer (Li-Poly) - 3 Cell
+Asus Vivobook S 15 OLED,4999,24.0,Snapdragon X Elite,15.6,Windows 11 Home,Laptop,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,Wi-Fi (7)/Bluetooth (5.4),No,2880 X 1620 (WQHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Midnight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+Lenovo Yoga Pro 9,9029,24.0,Intel Core Ultra 9 185H,16.0,Windows 11,Laptop,Luna Grey,1 TB SSD,32,Wi-Fi/Bluetooth,No,3200 X 2000,Lithium Polymer (Li-Po)
+HP Pavilion Plus,3999,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Laptop,Natural Silver,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,2880 X 1800 (OLED),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Space Grey,512 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Pro 14 M4 Retina XDR,9399,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Space Black,1 TB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Acer Aspire 5,1999,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Laptop,Steel Grey,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 4 Cell
+Microsoft Surface  Go 3,2999,24.0,Intel Core i5-1235U (12th Gen),12.4,Windows 11 Home,Laptop,Platinum,256 GB SSD,8,Wi-Fi/Bluetooth,Yes,1536 X 1024,Lithium Ion (Li-Ion)
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Silver,512 GB SSD,24,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Pro 13 M2 Retina + Touch Bar,5249,24.0,M2 8-core CPU 16-core Neural Engine,13.3,macOS Monterey,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1600 (WQXGA),Lithium Polymer (Li-Po)
+HP Pavilion Plus,2899,24.0,Intel Core i5-1340P (Evo 13th Gen),14.0,Windows 11,Laptop,Natural Silver,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,2240 x 1400,Lithium Ion Polymer (Li-Poly) - 3 Cell
+Acer Swift SF14-11-X41L,5029,24.0,Snapdragon X Plus 10 Core,14.5,Windows 11,Laptop,Silver,1 TB SSD,16,Wi-Fi (6E)/Bluetooth (5.0),No,2560 X 1600,Lithium Ion (Li-Ion)
+HP Notebook,2099,24.0,AMD Ryzen 5-7520U,15.6,Windows 11 Home,Laptop,Natural Silver,512 GB SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Midnight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Starlight,512 GB SSD,24,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Midnight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Acer Swift SF314-43-R9GG,2429,24.0,AMD Ryzen 7-5700U,14.0,Windows 11,Laptop,Silver,1 TB SSD,16,Wi-Fi (6)/Bluetooth (5.1),No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Huawei MateBook D 14 2023,4499,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11,Laptop,Mystic Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po) - 4 Cell
+Huawei MateBook D 16 2024,3199,24.0,Intel Core i5-12450H (12th Gen),16.0,Windows 11 Home,Laptop,Mystic Silver,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi (6)/Bluetooth (5.1),No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Huawei MateBook D 14 2023,2499,24.0,Intel Core i5-12450H (12th Gen),14.0,Windows 11,Laptop,Mystic Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po) - 4 Cell
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Midnight,512 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+HP Notebook 15s,2319,24.0,Intel Core i5-1334U (13th Gen),15.6,Windows 11,Laptop,Moonlight Blue,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi (6)/Bluetooth (5.0),No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Starlight,512 GB SSD,24,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Lenovo Yoga Slim 7,6229,24.0,Snapdragon X Elite,14.5,Windows 11 Home,Laptop,Cosmic Blue,1 TB SSD,32,Wi-Fi (7)/Bluetooth (5.4),Yes,2944 X 1840,Lithium Polymer (Li-Po) - 4 Cell
+HP Pavilion,4499,24.0,Intel Core Ultra 7 155U,16.0,Windows 11 Home,Laptop,Natural Silver,1 TB PCIe Gen4,16,Wi-Fi/Bluetooth,No,1920 X 1200,Lithium Ion (Li-Ion)
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Midnight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Asus Vivobook 15X OLED,3299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Laptop,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Acer Swift Go 14,3229,24.0,Intel Core Ultra 5 125H (Evo),14.0,Windows 11,Laptop,Silver,512 GB SSD,16,Wi-Fi (6E)/Bluetooth (5.0),No,2880 X 1800,Lithium Ion (Li-Ion)
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Space Grey,512 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Acer Aspire 3 A315-59-566E,1929,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Laptop,Silver,512 GB SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Huawei MateBook X Pro,6999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Laptop,White,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),Yes,3120 X 2080,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Laptop,Silver,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+HP,1819,24.0,Intel Core i3-1315U (13th Gen),15.6,Windows 11,Laptop,Natural Silver,256 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Laptop,Gold,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1600 (WQXGA),Lithium Ion Polymer (Li-Poly)
+Acer Aspire 5,2729,24.0,Intel Core i7-13620H (13th Gen),15.6,Windows 11,Laptop,Grey,512 GB SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Lenovo IdeaPad Slim 3,2829,24.0,Intel Core i7-13620H (13th Gen),15.6,Windows 11 Home,Laptop,Arctic Grey,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po)
+Lenovo IdeaPad 3,2199,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Laptop,Arctic Grey,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po)
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Laptop,Not Applicable,512 GB SSD,16,Wi-Fi (7)/Bluetooth (5.4),Yes,2304 X 1536,Lithium Ion (Li-Ion) - 6 Cell
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Starlight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Huawei MateBook 14,4999,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11,Laptop,Space Grey,1 TB SSD,16,Wi-Fi/Bluetooth,Yes,2160 x 1440,Lithium Polymer (Li-Po)
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Laptop,Space Black,512 GB SSD,24,Wi-Fi/Bluetooth,No,3456 X 2234,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Space Grey,512 GB SSD,24,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Starlight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Huawei MateBook D 16 2024,4999,24.0,Intel Core i9-13900H (13th Gen),16.0,Windows 11 Home,Laptop,Mystic Silver,1 TB SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Lenovo IdeaPad Slim 3,1629,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11 Home,Laptop,Arctic Grey,256 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Lenovo Yoga Pro 7,6629,24.0,AMD Ryzen 9,14.5,Windows 11 Home,Laptop,Luna Grey,1 TB SSD,32,Wi-Fi (6E)/Bluetooth (5.3),No,2880 X 1800 (OLED),Lithium Polymer (Li-Po)
+Microsoft Surface  7,4699,24.0,Snapdragon X Plus 10 Core,13.8,Windows 11 Home,Laptop,Platinum,256 GB SSD,16,Wi-Fi (7)/Bluetooth (5.4),Yes,2304 X 1536,Lithium Ion (Li-Ion) - 6 Cell
+Lenovo IdeaPad 3,2999,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11,Laptop,Arctic Grey,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po)
+Asus Vivobook 14X OLED,4699,24.0,Intel Core i9-13900H (13th Gen),14.0,Windows 11,Laptop,Cool Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,Wi-Fi/Bluetooth,No,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+Asus Zenbook 14X OLED,4499,24.0,Intel Core i9-13900H (Evo 13th Gen),14.5,Windows 11,Laptop,Inkwell Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi/Bluetooth,No,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Silver,512 GB SSD,24,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Asus ExpertBook B9,3499,36.0,Intel Core i7-1165G7 (Evo 11th Gen),14.0,Windows 10 Pro,Laptop,Star Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 4 Cell
+Apple MacBook Air 15 M2,6799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Laptop,Starlight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Asus Vivobook Pro 15 OLED,2649,24.0,AMD Ryzen 5-5600H,15.6,Windows 11,Laptop,Cool Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Acer Swift Go 14,4029,24.0,Intel Core Ultra 7 155H (Evo),14.0,Windows 11,Laptop,Silver,1 TB SSD,32,Wi-Fi (6E)/Bluetooth (5.0),No,2880 X 1800 (OLED),Lithium Ion (Li-Ion)
+Apple MacBook Pro 14 M4 Retina XDR,8499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Space Black,1 TB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Midnight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+MSI Modern 14,2229,24.0,Intel Core i7-1255U (12th Gen),14.0,Windows 11,Laptop,Black,512 GB SSD,16,Wi-Fi (6E)/Bluetooth (5.2),No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Pro 14 M3 Retina XDR,7899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Laptop,Space Grey,1 TB SSD,8,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+HP Pavilion Plus 14-ew1008nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Laptop,Moonlight Blue,512 GB PCIe Gen 4 NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),No,2880 X 1800 (OLED),Lithium Ion Polymer (Li-Poly) - 4 Cell
+Acer Swift Go 14,3029,24.0,Intel Core Ultra 5 125H (Evo),14.0,Windows 11,Laptop,Silver,512 GB SSD,16,Wi-Fi (6E)/Bluetooth (5.0),No,2880 X 1800 (OLED),Lithium Ion (Li-Ion)
+HP EliteBook 840 G11,6519,24.0,Intel Core Ultra 7 155U,14.0,Windows 11 Pro,Laptop,Silver,1 TB NVMe PCIe Gen 4×4 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),No,1920 X 1200 (WUXGA),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Pro 14 M3 Pro Retina XDR,9499,24.0,M3 Pro 11-core CPU,14.2,macOS Sonoma,Laptop,Space Black,512 GB SSD,18,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Pro 14 M2 Pro Retina XDR,8399,24.0,M2 Pro 10-core CPU 16-core Neural Engine,14.2,macOS Ventura,Laptop,Space Grey,512 GB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Ion Polymer (Li-Poly)
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Laptop,Space Grey,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Huawei MateBook D 16 2024,3499,24.0,Intel Core i5-13420H (13th Gen),16.0,Windows 11,Laptop,Mystic Silver,1 TB SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Lenovo IdeaPad Slim 3,1499,24.0,Intel Core i3-1305U (13th Gen),14.0,Windows 11,Laptop,Arctic Grey,256 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Apple MacBook Air 15 M2,5199,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Asus Zenbook S 14 OLED with Copilot Key,5899,24.0,Intel Core Ultra 7 258V 32 GB,14.0,Windows 11 Home,Laptop,Zumaia Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,Wi-Fi (7)/Bluetooth (5.4),No,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 4 Cell
+Microsoft Surface  7,6799,24.0,Snapdragon X Elite 12 Core,15.0,Windows 11 Home,Laptop,Black,512 GB SSD,16,Wi-Fi (7)/Bluetooth (5.4),Yes,2496 x 1664,Lithium Ion (Li-Ion) - 6 Cell
+Huawei MateBook 14,3999,24.0,Intel Core i5-1340P (13th Gen),14.0,Windows 11,Laptop,Space Grey,512 GB,16,Wi-Fi/Bluetooth,Yes,2160 x 1440,Lithium Ion Polymer (Li-Poly)
+Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Starlight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Lenovo Yoga Slim 6 OLED,3399,24.0,Intel Core i7-1260P (Evo 12th Gen),14.0,Windows 11,Laptop,Storm Grey,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Midnight,512 GB SSD,24,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Asus Vivobook S 14 OLED,4399,24.0,AMD Ryzen 9-8945HS,14.0,Windows 11 Home,Laptop,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),No,1920 X 1200 (WUXGA),Lithium Ion (Li-Ion) - 4 Cell
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Laptop,Silver,512 GB SSD,24,Wi-Fi/Bluetooth,No,3456 X 2234,Lithium Polymer (Li-Po)
+Acer Aspire 3,1579,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11,Laptop,Silver,256 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Ion (Li-Ion)
+HP Pavilion,4299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Laptop,Fog Blue,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Pro 14 M2 Pro Retina XDR,10399,24.0,M2 Pro 12-core CPU 16-core Neural Engine,14.2,macOS Ventura,Laptop,Silver,1 TB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Ion Polymer (Li-Poly)
+Huawei MateBook D 16 2024,4299,24.0,Intel Core i7-13700H (13th Gen),16.0,Windows 11 Home,Laptop,Mystic Silver,1 TB SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Lenovo IdeaPad Slim 5,4029,24.0,Intel Core Ultra 7 155H,14.0,Windows 11 Home,Laptop,Cloud Grey,512 GB PCIe Gen 4 NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Ion (Li-Ion)
+MSI Modern 15 H AI,2529,24.0,Intel Core Ultra 5 125H,15.6,Windows 11 Home,Laptop,Black,512 GB,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po) - 3 Cell
+Huawei MateBook D 16 2024,2199,24.0,Intel Core i5-12450H (12th Gen),16.0,Windows 11 Home,Laptop,Mystic Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi (6)/Bluetooth (5.1),No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Laptop,Silver,512 GB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+MSI Modern 14,1629,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Laptop,Black,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi (6E)/Bluetooth (5.2),No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Pro 14 M4 Pro Retina XDR,11399,24.0,M4 Pro 14-core CPU,14.2,macOS Sequoia,Laptop,Space Black,1 TB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Space Grey,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+HP EliteBook 840 G10,6019,24.0,Intel Core i7-1370P (13th Gen),14.0,Windows 11 Pro,Laptop,Aluminum Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,Wi-Fi (6E)/Bluetooth (5.2),No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po) - 3 Cell
+Lenovo Yoga Pro 9,8499,24.0,Intel Core Ultra 9 185H,16.0,Windows 11 Home,Laptop,Luna Grey,1 TB PCIe NVMe M.2 SSD,32,Wi-Fi (6E)/Bluetooth (5.1),Yes,3200 X 2000,Lithium Polymer (Li-Po)
+Huawei MateBook D 14,2699,24.0,Intel Core i5-12450H (12th Gen),14.0,Windows 11 Home,Laptop,Mystic Silver,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi (6)/Bluetooth (5.1),No,1920 X 1080 (FHD),Lithium Polymer (Li-Po) - 4 Cell
+Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Silver,512 GB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Silver,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Asus Vivobook 16X,3399,24.0,Intel Core i7-12700H (12th Gen),16.0,Windows 11 Home,Laptop,Indie Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200,Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Laptop,Space Black,512 GB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Acer Swift Go 14,4529,24.0,Intel Core Ultra 7 155H (Evo),14.0,Windows 11,Laptop,Silver,1 TB SSD,32,Wi-Fi (6E)/Bluetooth (5.0),No,2880 X 1800,Lithium Ion (Li-Ion)
+Huawei MateBook X Pro,6999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Laptop,Black,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.3),Yes,3120 X 2080,Lithium Polymer (Li-Po)
+Asus Vivobook S 15 OLED,2399,24.0,Intel Core i5-13500H (Evo 13th EVO),15.6,Windows 11 Home,Laptop,Cool Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Midnight,512 GB SSD,24,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+HP Notebook 15s,2319,24.0,Intel Core i5-1334U (13th Gen),15.6,Windows 11,Laptop,Natural Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi (6)/Bluetooth (5.0),No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Starlight,512 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Acer Aspire 3,1929,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Laptop,Silver,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 4 Cell
+Lenovo IdeaPad Slim 3,2229,24.0,Intel Core i5-12450H (12th Gen),15.6,Windows 11 Home,Laptop,Arctic Grey,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion)
+Asus Vivobook Go 15,1499,24.0,Intel Core i3-N305 (13th Gen),15.6,Windows 11 Home,Laptop,Cool Silver,512 GB PCIe 3.0 NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Honor MagicBook Art 14,5999,24.0,Intel Core Ultra 7 155H,14.6,Windows 11 Home,Laptop,Emerald Green,1 TB,32,Wi-Fi (6E)/Bluetooth (5.3),Yes,3120 X 2080,Lithium Polymer (Li-Po)
+Huawei MateBook X Pro,8499,24.0,Intel Core Ultra 9 185H,14.2,Windows 11 Home,Laptop,Morandi Blue,2 TB PCIe NVMe M.2 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),Yes,3120 X 2080,Lithium Polymer (Li-Po)
+Lenovo IdeaPad 5 Pro,4699,24.0,Intel Core i7-13700H (13th Gen),16.0,Windows 11,Laptop,Arctic Grey,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,2560 X 1600 (WQXGA),Lithium Ion (Li-Ion)
+Lenovo Yoga Slim 6,3729,24.0,Intel Core i7-13700H (13th Gen),14.0,Windows 11 Home,Laptop,Misty Grey,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po) - 4 Cell
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Space Grey,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Asus Vivobook 16,2399,24.0,Intel Core i7-1355U (13th Gen),16.0,Windows 11,Laptop,Indie Black,512 GB PCIe NVMe M.3 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Silver,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Pro 14 M3 Pro Retina XDR,11299,24.0,M3 Pro 12-core CPU,14.2,macOS Sonoma,Laptop,Space Black,1 TB SSD,18,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Laptop,Green,1 TB M.2 NVMe PCIe 4.0 SSD,16,Wi-Fi (6)/Bluetooth (5.1),No,2880 X 1920,Lithium Polymer (Li-Po)
+Asus Vivobook Go 15 OLED,1899,24.0,AMD Ryzen 5-7520U,15.6,Windows 11,Laptop,Green Grey,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Midnight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Asus Vivobook 15,2799,24.0,Intel Core i7-1355U (13th Gen),15.6,Windows 11 Home,Laptop,Quiet Blue,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Midnight,512 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Laptop,Starlight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Laptop,Silver,512 GB SSD,8,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Pro 16 M3 Pro Retina XDR,10899,24.0,M3 Pro 12-core CPU,16.0,macOS Sonoma,Laptop,Space Black,512 GB SSD,18,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Starlight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+Lenovo Yoga Pro 7,7329,24.0,Intel Core Ultra 9 185H,14.5,Windows 11 Home,Laptop,Luna Grey,1 TB PCIe NVMe M.2 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),Yes,3072 X 1920,Lithium Polymer (Li-Po)
+Asus Vivobook 15,2399,24.0,Intel Core i5-1335U (13th Gen),15.6,Windows 11,Laptop,Quiet Blue,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Asus Vivobook Go 15 OLED,2099,24.0,AMD Ryzen 5-7520U,15.6,Windows 11 Home,Laptop,Green Grey,512 GB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Space Grey,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+HP Pavilion Plus 14-ew1001nx,5499,24.0,Intel Core Ultra 7 155H,14.0,Windows 11 Home,Laptop,Natural Silver,1 TB PCIe NVMe M.2 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),No,2880 X 1800 (OLED),Lithium Ion Polymer (Li-Poly) - 4 Cell
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Laptop,Dune,512 GB SSD,16,Wi-Fi (7)/Bluetooth (5.4),Yes,2304 X 1536,Lithium Ion (Li-Ion) - 6 Cell
+Dell Vostro 3520,3299,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Home,Laptop,Carbon Black,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 4 Cell
+Huawei MateBook D 15,3449,24.0,Intel Core i7-1195G7 (11th Gen),15.6,Windows 11,Laptop,Mystic Silver,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (WUXGA),Lithium Polymer (Li-Po) - 3 Cell
+HP,3399,24.0,Intel Core i7-1355U (13th Gen),15.6,Windows 11,Laptop,Natural Silver,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Pro 14 M4 Retina XDR,8499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Silver,1 TB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Lenovo ThinkPad E14 Gen 6,4799,24.0,Intel Core Ultra 5 125U,14.0,Windows 11 Pro,Laptop,Black,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1200 (WUXGA),Lithium Polymer (Li-Po)
+Asus Zenbook DUO  (with Sleeve Case & Stylus),7799,24.0,Intel Core Ultra 9 185H,14.0,Windows 11 (with Windows 11 Copilot),Laptop (with Sleeve Case & Stylus),Inkwell Grey,2 TB M.2 PCIe NVMe 4.0 SSD,32,Wi-Fi (6E)/Bluetooth (5.3),Yes,2880 X 1800 (OLED),Lithium Ion (Li-Ion) - 4 Cell
+Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Laptop,Midnight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Dell Vostro 3520,1849,24.0,Intel Core i3-1215U (12th Gen),15.6,Windows 11 Home,Laptop,Carbon Black,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Pro 14 M4 Retina XDR,9399,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Silver,1 TB SSD,24,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Space Grey,512 GB SSD,24,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Space Grey,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+Huawei MateBook D 15,3049,24.0,Intel Core i5-1155G7 (11th Gen),15.6,Windows 11,Laptop,Mystic Silver,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (WUXGA),Lithium Polymer (Li-Po) - 3 Cell
+HP Pavilion,4299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Laptop,Natural Silver,1 TB PCIe NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Laptop,Platinum Grey,512 GB NVMe M.2 SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Laptop,Space Grey,512 GB SSD,8,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+MSI Modern 14,1629,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Laptop,Silver,512 GB PCIe NVMe M.2 SSD,8,Wi-Fi (6E)/Bluetooth (5.2),No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Laptop,Space Black,512 GB SSD,16,Wi-Fi/Bluetooth,No,3024 X 1964,Lithium Polymer (Li-Po)
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Laptop,Silver,256 GB SSD,16,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Laptop,Starlight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Laptop,Midnight,512 GB SSD,8,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Ion Polymer (Li-Poly)
+HP Notebook,2999,24.0,AMD Ryzen 7-7730U,15.6,Windows 11 Home,Laptop,Natural Silver,512 GB SSD,16,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion Polymer (Li-Poly) - 3 Cell
+Apple MacBook Air 15 M2,5999,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Laptop,Space Grey,512 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Laptop,Starlight,256 GB SSD,16,Wi-Fi/Bluetooth,No,2560 X 1664,Lithium Polymer (Li-Po)
+Lenovo IdeaPad Pro 5,5029,24.0,Intel Core Ultra 7 155H,16.0,Windows 11 Home,Laptop,Arctic Grey,512 GB NVMe M.2 SSD,16,Wi-Fi (6E)/Bluetooth (5.2),No,2048 X 1280,Lithium Polymer (Li-Po)
+Huawei MateBook D 14,2799,24.0,Intel Core i5-1155G7 (11th Gen),14.0,Windows 11,Laptop,Mystic Silver,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Polymer (Li-Po) - 4 Cell
+Dell Vostro 3520,2499,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11 Home,Laptop,Carbon Black,512 GB NVMe M.2 SSD,8,Wi-Fi/Bluetooth,No,1920 X 1080 (FHD),Lithium Ion (Li-Ion) - 3 Cell
+Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Laptop,Midnight,256 GB SSD,8,Wi-Fi/Bluetooth,No,2880 X 1864,Lithium Polymer (Li-Po)
