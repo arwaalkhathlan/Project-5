@@ -61,4 +61,4 @@ The data for this project was collected from two major retail websites, **Jarir*
 
 ## Bouns 
 
-[# Laptop Recommendation System Dataset](https://www.kaggle.com/datasets/raghad2009/laptop-recommendation-system-dataset/settings)
+[Laptop Recommendation System Dataset](https://www.kaggle.com/datasets/raghad2009/laptop-recommendation-system-dataset/settings)
