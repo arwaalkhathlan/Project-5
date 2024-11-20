@@ -32,9 +32,9 @@ storage_type_mapping = {
 }
 
 # Set up the Streamlit app
-#st.title("Laptops Recommendation Prediction")
-#st.subheader("Predict the Optimal Laptop")
-#st.markdown("Enter the Laptop details in the sidebar and click 'Predict' to see the recommended Laptops !.")
+st.title("Laptops Recommendation Prediction")
+st.subheader("Predict the Optimal Laptop")
+st.markdown("Enter the Laptop details in the sidebar and click 'Predict' to see the recommended Laptops !.")
 
 # Sidebar inputs
 #st.sidebar.image("Blue.png", caption="Your Caption Here", use_container_width=True)
