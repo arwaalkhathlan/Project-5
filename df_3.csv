@@ -1,112 +1,112 @@
-Product_Name,Product_Price,Warranty_Period(Months),Processor_Type,Screen_Size(inch),Operating_System,Color,Storage_Capacity,RAMGB,Touch_Display,Battery_Type,Storage_Type,Storage_Capacity_GB,Pixels_Width,Pixels_Height,Processor_Type_encoded,Operating_System_encoded,Color_encoded,Battery_Type_encoded,Storage_Type_encoded,kmeans
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,64,51,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,66,51,13,3
-Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,37,51,13,3
-Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,66,48,13,3
-Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Sapphire,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,55,44,13,3
-Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,66,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,64,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,58,51,13,3
-Apple MacBook Pro 13 M2 Retina + Touch Bar,5249,24.0,M2 8-core CPU 16-core Neural Engine,13.3,macOS Monterey,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1600,86,10,64,51,13,3
-Renewed Grade A Apple MacBook Pro 16 M3 Pro Retina XDR,9899,6.0,M3 Pro 12-core CPU,16.0,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,91,12,62,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,37,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Starlight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,66,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,37,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,37,51,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Starlight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,66,51,13,3
-Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,37,51,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Space Grey,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,64,51,13,3
-Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,58,51,13,3
-Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Not Applicable,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,44,44,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,66,51,13,3
-Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Space Black,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3456,2234,94,11,62,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Space Grey,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,64,51,13,3
-Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
-Renewed Grade A Apple MacBook Air 13 M3,4499,6.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
-Microsoft Surface  7,4699,24.0,Snapdragon X Plus 10 Core,13.8,Windows 11 Home,Platinum,256 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,256.0,2304,1536,101,6,49,44,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,58,51,13,3
-Apple MacBook Air 15 M2,6799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,86,13,66,51,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,37,51,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,64,51,13,3
-Apple MacBook Pro 14 M3 Pro Retina XDR,9499,24.0,M3 Pro 11-core CPU,14.2,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,90,12,62,51,13,3
-Apple MacBook Pro 14 M2 Pro Retina XDR,8399,24.0,M2 Pro 10-core CPU 16-core Neural Engine,14.2,macOS Ventura,Space Grey,512 GB SSD,16,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,3024,1964,87,13,64,48,13,3
-Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,64,51,13,3
-Apple MacBook Air 15 M2,5199,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,64,51,13,3
-Microsoft Surface  7,6799,24.0,Snapdragon X Elite 12 Core,15.0,Windows 11 Home,Black,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2496,1664,99,6,5,44,13,3
-Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,66,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Midnight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,37,51,13,3
-Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3456,2234,94,11,58,51,13,3
-Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,93,11,58,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,64,51,13,3
-Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Silver,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,92,11,58,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,58,51,13,3
-Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Space Black,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,93,11,62,51,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Midnight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,37,51,13,3
-Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,64,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Silver,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,58,51,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,37,51,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,37,51,13,3
-Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,66,51,13,3
-Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Silver,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,89,12,58,51,13,3
-Apple MacBook Pro 16 M3 Pro Retina XDR,10899,24.0,M3 Pro 12-core CPU,16.0,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,91,12,62,51,13,3
-Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,64,51,13,3
-Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Dune,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,13,44,13,3
-Renewed Grade B Apple MacBook Pro 14 M2 Pro Retina XDR,6499,3.0,M2 Pro 10-core CPU 16-core Neural Engine,14.2,macOS Ventura,Space Grey,512 GB SSD,16,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,3024,1964,87,13,64,48,13,3
-Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,37,51,13,3
-Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Space Grey,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,64,51,13,3
-Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Space Grey,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,64,48,13,3
-Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,89,12,64,51,13,3
-Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Space Black,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,92,11,62,51,13,3
-Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,58,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,66,51,13,3
-Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Midnight,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,37,48,13,3
-Apple MacBook Air 15 M2,5999,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,86,13,64,51,13,3
-Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,66,51,13,3
-Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,37,51,13,3
-Microsoft Surface Pro 9,6799,24.0,Intel Core i7-1265U (12th Gen) Evo Platform,13.0,Windows 11 Home,Graphite,512GB SSD M.2,16,True,Up to 15.5 hours of typical device usage,SSD M.2,512.0,2880,1920,68,6,21,54,14,3
-HP Elite Dragonfly G3,6999,36.0,Intel Core i7-1255U (12th Gen),13.5,Windows 11 Professional,Slate blue,512GB SSD M.2,16,True,"HP Long Life 6-cell, 68 Wh Li-ion polymer",SSD M.2,512.0,1920,1280,64,8,61,27,14,3
-Apple MacBook Pro M3,7199,24.0,Apple M3 chip,14.2,macOS Sonoma,Silver,512GB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,58,20,13,3
-ThinkPad E15 Gen 4,7199,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Black,512GB SSD,8,False,Lithium 3 Cell,SSD,512.0,1920,1080,64,0,5,39,13,3
-Lenovo Yoga 7 14IRL8,4399,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11 Home,Storm Grey,512GB SSD M.2,16,True,Integrated 71Wh,SSD M.2,512.0,1920,1200,71,6,70,35,14,3
-Microsoft Surface Studio,4999,24.0,Quad-core Intel Core H35 i5-11300H (11th Gen),14.4,Windows 11 Home,Platinum,256GB SSD,16,True,Up to 19 hours of typical device usage,SSD,256.0,2400,1600,96,6,49,57,13,3
-Apple MacBook Pro 16-Inch M3 Pro,11299,24.0,Apple M3 Pro chip,16.2,macOS Sonoma,Space Black,512GB SSD,18,False,100-watt-hour lithium-polymer battery,SSD,512.0,3456,2234,22,12,62,0,13,3
-ThinkBook 15 G4 IAP,11299,36.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Professional,Mineral Grey,512GB SSD M.2,16,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,64,8,38,39,14,3
-apple MacBook Air M2 (2024),11299,24.0,Apple M2 chip,13.6,macOS Monterey,Steel Gray,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,67,15,13,3
-Acer Nitro 5 AN515-58-937L,4549,24.0,Intel Core i9-12900H (12th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,80,0,46,17,14,3
-Dell G15 5530 Gaming,5399,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,512GB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,512.0,1920,1080,73,0,10,18,14,3
-Apple MacBook Pro 14-inch M3 chip,8299,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,512GB SSD,16,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,63,20,13,3
-Apple MacBook Pro M3,7199,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,512GB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,63,20,13,3
-ThinkBook 14 G4 IAP,5499,36.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11 Professional,Mineral Grey,512GB SSD M.2,8,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,47,8,38,39,14,3
-apple MacBook Air M2,5299,24.0,Apple M2 chip,13.6,macOS Monterey,Silver,512GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,21,10,58,51,13,3
-Apple MacBook Air M3,5699,24.0,Apple M3 chip,13.6,macOS Sonoma,Space Gray,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,63,15,13,3
-apple MacBook Air M2,5299,24.0,Apple M2 chip,13.6,macOS Monterey,Space Gray,512GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,21,10,63,51,13,3
-ThinkPad T14 Gen 4 (Intel),5299,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Thunder Black,512GB SSD M.2,16,False,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,70,8,71,30,14,3
-Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Silver,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,58,15,13,3
-Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Midnight,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,37,15,13,3
-Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Starlight,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,66,15,13,3
-Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Space Gray,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,63,15,13,3
-Lenovo Legion 5 16IRX9,6299,24.0,Intel Core i7-14650HX (14th Generation),16.0,Windows 11 Home,Luna Grey,512GB SSD M.2,16,False,Integrated 80Wh,SSD M.2,512.0,2560,1600,77,6,33,36,14,3
-Apple MacBook Air M3,5799,24.0,Apple M3 chip,13.6,macOS Sonoma,Starlight,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,66,15,13,3
-Latitude 3450,8499,24.0,Intel Core i5-1335U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,53,0,5,2,14,3
-Microsoft Surface Pro 9,5999,24.0,Intel Core i7-1265U (12th Gen) Evo Platform,13.0,Windows 11 Home,Graphite,256GB SSD M.2,16,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,68,6,21,54,14,3
-HP Elite x360 1040 14 inch G9 2-in-1,5999,36.0,Intel Core i7-1255U (12th Gen),14.0,Windows 11 Professional,Silver,512GB SSD M.2,16,True,"HP Long Life 3-cell, 51 Wh Li-ion",SSD M.2,512.0,1920,1200,64,8,58,25,14,3
-Lenovo LOQ 15IRX9,4799,24.0,Intel Core i7-13650HX (13th Gen),15.6,Windows 11 Home,Gray,512GB SSD M.2,24,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,73,6,23,33,14,3
-Apple MacBook Pro M3 Pro,9299,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Space Black,512GB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,22,12,62,21,13,3
-Dell G15 5530 Gaming,5299,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,512GB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,512.0,1920,1080,73,0,10,18,14,3
-Acer Gaming Predator Helios Neo 16 PHN16-71-71P2,5799,24.0,Intel Core i7-13700HX (13th Gen),16.0,Windows 11 Home,Obsidian Black,512GB SSD M.2,16,False,"4-cell, 90 Wh Li-ion polymer",SSD M.2,512.0,1920,1200,75,6,46,11,14,3
-Lenovo Gaming LOQ 16IRH8,4499,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Storm Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1200,72,0,70,33,14,3
-Acer Gaming Predator Helios Neo 16 PHN16-71-74ZT,5299,24.0,Intel Core i7-13700HX (13th Gen),16.0,Windows 11 Home,Obsidian Black,512GB SSD M.2,16,False,"4-cell, 90 Wh Li-ion polymer",SSD M.2,512.0,1920,1200,75,6,46,11,14,3
-Apple MacBook Pro 16-Inch M3 Pro,11299,24.0,Apple M2 Pro chip,16.2,macOS Sonoma,Silver,512GB SSD,18,False,100-watt-hour lithium-polymer battery,SSD,512.0,3456,2234,20,12,58,0,13,3
-HP EliteBook 830 G8,6999,36.0,Intel Core i7-1185G7 vPro (11th Gen),13.3,Windows 10 Professional,Silver,256GB SSD M.2,8,False,"HP Long Life 3-cell, 53 Wh Li-ion",SSD M.2,256.0,1920,1080,62,3,58,26,14,3
-Dell Latitude 5440,6999,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Gray,512GB SSD M.2,16,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,70,0,23,2,14,3
-ThinkPad X1 Carbon Gen 11,6999,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Deep Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,70,8,11,31,14,3
-ThinkPad E16 Gen 1 (Intel),6999,24.0,Intel Core i7-1355U (13th Gen),16.0,Dos,Graphite Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,70,0,22,29,14,3
-apple MacBook Air M2 (2024),6999,24.0,Apple M2 chip,13.6,macOS Monterey,Starlight,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,66,15,13,3
-Dell Latitude 3440,6999,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,3
-MacBook Air 15-inch M3 (2024),7499,24.0,Apple M3 chip,15.3,macOS Sonoma,Midnight,512GB SSD,16,False,66.5-watt‑hour lithium‑polymer battery (Up to 18 hours),SSD,512.0,2880,1864,23,12,37,19,13,3
-Apple MacBook Air M3,5799,24.0,Apple M3 chip,13.6,macOS Sonoma,Midnight,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,37,15,13,3
-Lenovo ThinkPad E14 Gen 6 Intel,5799,24.0,Intel Core Ultra 5-125U,14.0,Dos,Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,28,0,5,29,14,3
-ThinkPad E16 Gen 1 (Intel),5799,24.0,Intel Core i5-1335U (13th Gen),16.0,Dos,Graphite Black,256GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,256.0,1920,1200,53,0,22,29,14,3
-Apple MacBook Pro M3 Pro,9299,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Silver,512GB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,22,12,58,21,13,3
-Dell Latitude 3420,8999,24.0,Intel Core i5-1135G7 (11th Gen),14.0,Dos,Black,256GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,256.0,1920,1080,45,0,5,6,14,3
+Product_Name,Product_Price,RAMGB,Storage_Capacity_GB,Storage_Type
+Apple MacBook Air 15 M3,5999,16,256.0,SSD
+Apple MacBook Air 15 M3,5999,8,256.0,SSD
+Apple MacBook Air 13 M2 Retina,4499,16,256.0,SSD
+Apple MacBook Air 13 M2 Retina,5699,8,512.0,SSD
+Microsoft Surface  7,6299,16,512.0,SSD
+Apple MacBook Air 13 M2 Retina,4499,16,256.0,SSD
+Apple MacBook Air 13 M3,7099,16,512.0,SSD
+Apple MacBook Air 13 M3,7099,24,512.0,SSD
+Apple MacBook Pro 13 M2 Retina + Touch Bar,5249,8,256.0,SSD
+Renewed Grade A Apple MacBook Pro 16 M3 Pro Retina XDR,9899,18,512.0,SSD
+Apple MacBook Air 13 M3,5199,16,256.0,SSD
+Apple MacBook Air 13 M3,7099,24,512.0,SSD
+Apple MacBook Air 13 M3,5199,8,256.0,SSD
+Apple MacBook Air 13 M3,7099,16,512.0,SSD
+Apple MacBook Air 15 M3,7899,24,512.0,SSD
+Apple MacBook Air 13 M3,6199,8,512.0,SSD
+Apple MacBook Air 15 M3,7899,16,512.0,SSD
+Apple MacBook Air 13 M2 Retina,4499,16,256.0,SSD
+Microsoft Surface  7,6299,16,512.0,SSD
+Apple MacBook Air 15 M3,5999,16,256.0,SSD
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24,512.0,SSD
+Apple MacBook Air 13 M3,7099,24,512.0,SSD
+Apple MacBook Air 13 M3,6199,8,512.0,SSD
+Renewed Grade A Apple MacBook Air 13 M3,4499,16,512.0,SSD
+Microsoft Surface  7,4699,16,256.0,SSD
+Apple MacBook Air 15 M3,7899,24,512.0,SSD
+Apple MacBook Air 15 M2,6799,8,512.0,SSD
+Apple MacBook Air 15 M3,5999,8,256.0,SSD
+Apple MacBook Air 15 M3,5999,8,256.0,SSD
+Apple MacBook Pro 14 M3 Pro Retina XDR,9499,18,512.0,SSD
+Apple MacBook Pro 14 M2 Pro Retina XDR,8399,16,512.0,SSD
+Apple MacBook Air 13 M2 Retina,4499,16,256.0,SSD
+Apple MacBook Air 15 M2,5199,8,256.0,SSD
+Microsoft Surface  7,6799,16,512.0,SSD
+Apple MacBook Air 15 M3,6999,8,512.0,SSD
+Apple MacBook Air 13 M3,7099,24,512.0,SSD
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24,512.0,SSD
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24,512.0,SSD
+Apple MacBook Air 13 M3,5199,8,256.0,SSD
+Apple MacBook Pro 14 M4 Retina XDR,7499,16,512.0,SSD
+Apple MacBook Air 13 M3,5199,16,256.0,SSD
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24,512.0,SSD
+Apple MacBook Air 15 M3,7899,24,512.0,SSD
+Apple MacBook Air 13 M3,7099,16,512.0,SSD
+Apple MacBook Air 13 M3,5199,16,256.0,SSD
+Apple MacBook Air 13 M3,5199,8,256.0,SSD
+Apple MacBook Air 15 M3,5999,16,256.0,SSD
+Apple MacBook Air 15 M3,7899,16,512.0,SSD
+Apple MacBook Air 15 M2,5799,8,256.0,SSD
+Apple MacBook Pro 14 M3 Retina XDR,6899,8,512.0,SSD
+Apple MacBook Pro 16 M3 Pro Retina XDR,10899,18,512.0,SSD
+Apple MacBook Air 13 M3,6199,8,512.0,SSD
+Microsoft Surface  7,6299,16,512.0,SSD
+Renewed Grade B Apple MacBook Pro 14 M2 Pro Retina XDR,6499,16,512.0,SSD
+Apple MacBook Air 15 M3,6999,8,512.0,SSD
+Apple MacBook Air 15 M3,7899,24,512.0,SSD
+Apple MacBook Air 13 M2 Retina,5699,8,512.0,SSD
+Apple MacBook Pro 14 M3 Retina XDR,6899,8,512.0,SSD
+Apple MacBook Pro 14 M4 Retina XDR,7499,16,512.0,SSD
+Apple MacBook Air 15 M3,5999,16,256.0,SSD
+Apple MacBook Air 13 M3,5199,8,256.0,SSD
+Apple MacBook Air 13 M2 Retina,5699,8,512.0,SSD
+Apple MacBook Air 15 M2,5999,8,512.0,SSD
+Apple MacBook Air 13 M3,5199,16,256.0,SSD
+Apple MacBook Air 15 M2,5799,8,256.0,SSD
+Microsoft Surface Pro 9,6799,16,512.0,SSD M.2
+HP Elite Dragonfly G3,6999,16,512.0,SSD M.2
+Apple MacBook Pro M3,7199,8,512.0,SSD
+ThinkPad E15 Gen 4,7199,8,512.0,SSD
+Lenovo Yoga 7 14IRL8,4399,16,512.0,SSD M.2
+Microsoft Surface Studio,4999,16,256.0,SSD
+Apple MacBook Pro 16-Inch M3 Pro,11299,18,512.0,SSD
+ThinkBook 15 G4 IAP,11299,16,512.0,SSD M.2
+apple MacBook Air M2 (2024),11299,16,256.0,SSD
+Acer Nitro 5 AN515-58-937L,4549,16,512.0,SSD M.2
+Dell G15 5530 Gaming,5399,16,512.0,SSD M.2
+Apple MacBook Pro 14-inch M3 chip,8299,16,512.0,SSD
+Apple MacBook Pro M3,7199,8,512.0,SSD
+ThinkBook 14 G4 IAP,5499,8,512.0,SSD M.2
+apple MacBook Air M2,5299,8,512.0,SSD
+Apple MacBook Air M3,5699,8,512.0,SSD
+apple MacBook Air M2,5299,8,512.0,SSD
+ThinkPad T14 Gen 4 (Intel),5299,16,512.0,SSD M.2
+Apple MacBook Air M3,6799,16,512.0,SSD
+Apple MacBook Air M3,6799,16,512.0,SSD
+Apple MacBook Air M3,6799,16,512.0,SSD
+Apple MacBook Air M3,6799,16,512.0,SSD
+Lenovo Legion 5 16IRX9,6299,16,512.0,SSD M.2
+Apple MacBook Air M3,5799,8,512.0,SSD
+Latitude 3450,8499,8,512.0,SSD M.2
+Microsoft Surface Pro 9,5999,16,256.0,SSD M.2
+HP Elite x360 1040 14 inch G9 2-in-1,5999,16,512.0,SSD M.2
+Lenovo LOQ 15IRX9,4799,24,512.0,SSD M.2
+Apple MacBook Pro M3 Pro,9299,18,512.0,SSD
+Dell G15 5530 Gaming,5299,16,512.0,SSD M.2
+Acer Gaming Predator Helios Neo 16 PHN16-71-71P2,5799,16,512.0,SSD M.2
+Lenovo Gaming LOQ 16IRH8,4499,16,512.0,SSD M.2
+Acer Gaming Predator Helios Neo 16 PHN16-71-74ZT,5299,16,512.0,SSD M.2
+Apple MacBook Pro 16-Inch M3 Pro,11299,18,512.0,SSD
+HP EliteBook 830 G8,6999,8,256.0,SSD M.2
+Dell Latitude 5440,6999,16,512.0,SSD M.2
+ThinkPad X1 Carbon Gen 11,6999,16,512.0,SSD M.2
+ThinkPad E16 Gen 1 (Intel),6999,8,512.0,SSD M.2
+apple MacBook Air M2 (2024),6999,16,256.0,SSD
+Dell Latitude 3440,6999,8,512.0,SSD M.2
+MacBook Air 15-inch M3 (2024),7499,16,512.0,SSD
+Apple MacBook Air M3,5799,8,512.0,SSD
+Lenovo ThinkPad E14 Gen 6 Intel,5799,8,512.0,SSD M.2
+ThinkPad E16 Gen 1 (Intel),5799,8,256.0,SSD M.2
+Apple MacBook Pro M3 Pro,9299,18,512.0,SSD
+Dell Latitude 3420,8999,8,256.0,SSD M.2

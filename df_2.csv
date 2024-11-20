@@ -1,50 +1,50 @@
-Product_Name,Product_Price,Warranty_Period(Months),Processor_Type,Screen_Size(inch),Operating_System,Color,Storage_Capacity,RAMGB,Touch_Display,Battery_Type,Storage_Type,Storage_Capacity_GB,Pixels_Width,Pixels_Height,Processor_Type_encoded,Operating_System_encoded,Color_encoded,Battery_Type_encoded,Storage_Type_encoded,kmeans
-Huawei MateBook 14,4299,24.0,Intel Core Ultra 5 125H,14.2,Windows 11 Home,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,25,6,64,51,4,2
-Asus,3799,24.0,AMD Ryzen 7-8840HS,14.0,Windows 11,Jade Black,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,15,4,31,43,4,2
-Asus Zenbook 14 OLED,4799,24.0,Intel Core Ultra 9 185H,14.0,Windows 11 Home,Ponder Blue,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,35,6,52,43,4,2
-Asus Zenbook 14 OLED,3599,24.0,AMD Ryzen 7-7730U,14.0,Windows 11,Jade Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,2880,1800,12,4,31,43,3,2
-MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Urban Silver,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,75,42,6,2
-HP Pavilion Plus 14-ew1009nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Natural Silver,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 4 Cell,PCIe Gen 4 NVMe M.2 SSD,512.0,2880,1800,25,6,43,50,9,2
-Huawei MateBook 14,3649,24.0,Intel Core i5-1240P (12th Gen),14.0,Windows 11,Space Grey,512 GB,16,True,Lithium Ion Polymer (Li-Poly),,512.0,2160,1440,48,4,64,48,0,2
-Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,29,6,64,51,4,2
-MSI Prestige 13 AI Evo A1MG,4329,24.0,Intel Core Ultra 7 155H,13.3,Windows 11 Home,Stellar Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Polymer (Li-Po) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,29,6,69,53,4,2
-HP OmniBook X,5499,24.0,Snapdragon X Elite,14.0,Windows 11 (with Windows 11 Copilot),Meteor Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Ion Polymer (Li-Poly) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2240,1400,98,5,35,49,4,2
-Asus Vivobook S 15 OLED,4999,24.0,Snapdragon X Elite,15.6,Windows 11 Home,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1620,98,6,8,42,4,2
-Renewed Grade A Apple MacBook Air 13 M1 Retina,3899,6.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Space Grey,512 GB,8,False,Lithium Ion Polymer (Li-Poly),,512.0,2560,1600,85,9,64,48,0,2
-Huawei MateBook D 14 2023,4499,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11,Mystic Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Polymer (Li-Po) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1200,71,4,42,53,3,2
-Asus Vivobook 15X OLED,3299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1080,71,4,8,42,4,2
-Lenovo IdeaPad 3,2199,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1080,47,4,2,51,6,2
-Lenovo IdeaPad Slim 3,1629,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11 Home,Arctic Grey,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1080,42,6,2,41,6,2
-Renewed Grade B Apple MacBook Air 13 M2 Retina,3799,3.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,512 GB,8,False,Lithium Ion Polymer (Li-Poly),,512.0,2560,1664,86,10,66,48,0,2
-Lenovo IdeaPad 3,2999,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1080,64,4,2,51,6,2
-Asus Vivobook 14X OLED,4699,24.0,Intel Core i9-13900H (13th Gen),14.0,Windows 11,Cool Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,2880,1800,81,4,8,42,3,2
-Asus Zenbook 14X OLED,4499,24.0,Intel Core i9-13900H (Evo 13th Gen),14.5,Windows 11,Inkwell Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,82,4,30,42,4,2
-Asus ExpertBook B9,3499,36.0,Intel Core i7-1165G7 (Evo 11th Gen),14.0,Windows 10 Pro,Star Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1080,61,2,65,43,3,2
-HP Pavilion Plus 14-ew1008nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Moonlight Blue,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 4 Cell,PCIe Gen 4 NVMe M.2 SSD,512.0,2880,1800,25,6,40,50,9,2
-Lenovo IdeaPad Slim 3,1499,24.0,Intel Core i3-1305U (13th Gen),14.0,Windows 11,Arctic Grey,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1080,38,4,2,41,6,2
-Asus Zenbook S 14 OLED with Copilot Key,5899,24.0,Intel Core Ultra 7 258V 32 GB,14.0,Windows 11 Home,Zumaia Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,32,6,77,43,4,2
-Huawei MateBook 14,3999,24.0,Intel Core i5-1340P (13th Gen),14.0,Windows 11,Space Grey,512 GB,16,True,Lithium Ion Polymer (Li-Poly),,512.0,2160,1440,54,4,64,48,0,2
-Asus Vivobook S 14 OLED,4399,24.0,AMD Ryzen 9-8945HS,14.0,Windows 11 Home,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,18,6,8,43,4,2
-Acer Aspire 3,1579,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11,Silver,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1200,42,4,58,41,6,2
-Lenovo IdeaPad Slim 5,4029,24.0,Intel Core Ultra 7 155H,14.0,Windows 11 Home,Cloud Grey,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion),PCIe Gen 4 NVMe M.2 SSD,512.0,1920,1200,29,6,7,41,9,2
-MSI Modern 15 H AI,2529,24.0,Intel Core Ultra 5 125H,15.6,Windows 11 Home,Black,512 GB,16,False,Lithium Polymer (Li-Po) - 3 Cell,,512.0,1920,1080,25,6,5,52,0,2
-HP EliteBook 840 G10,6019,24.0,Intel Core i7-1370P (13th Gen),14.0,Windows 11 Pro,Aluminum Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Polymer (Li-Po) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,76,7,1,52,4,2
-Asus Vivobook 16X,3399,24.0,Intel Core i7-12700H (12th Gen),16.0,Windows 11 Home,Indie Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1200,69,6,29,42,3,2
-Acer Aspire 3,1929,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Silver,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,47,4,58,43,6,2
-Asus Vivobook Go 15,1499,24.0,Intel Core i3-N305 (13th Gen),15.6,Windows 11 Home,Cool Silver,512 GB PCIe 3.0 NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe 3.0 NVMe M.2 SSD,512.0,1920,1080,42,6,8,42,8,2
-Honor MagicBook Art 14,5999,24.0,Intel Core Ultra 7 155H,14.6,Windows 11 Home,Emerald Green,1 TB,32,True,Lithium Polymer (Li-Po),,1024.0,3120,2080,29,6,18,51,0,2
-Lenovo IdeaPad 5 Pro,4699,24.0,Intel Core i7-13700H (13th Gen),16.0,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,512.0,2560,1600,74,4,2,41,6,2
-Lenovo Yoga Slim 6,3729,24.0,Intel Core i7-13700H (13th Gen),14.0,Windows 11 Home,Misty Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 4 Cell,NVMe M.2 SSD,512.0,1920,1200,74,6,39,53,6,2
-Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Green,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,29,6,24,51,4,2
-Dell Vostro 3520,3299,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,64,6,6,43,6,2
-Huawei MateBook D 15,3449,24.0,Intel Core i7-1195G7 (11th Gen),15.6,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,63,4,42,52,6,2
-HP,3399,24.0,Intel Core i7-1355U (13th Gen),15.6,Windows 11,Natural Silver,512 GB NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,43,49,6,2
-Lenovo ThinkPad E14 Gen 6,4799,24.0,Intel Core Ultra 5 125U,14.0,Windows 11 Pro,Black,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1200,27,7,5,51,6,2
-Dell Vostro 3520,1849,24.0,Intel Core i3-1215U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,37,6,6,42,6,2
-Huawei MateBook D 15,3049,24.0,Intel Core i5-1155G7 (11th Gen),15.6,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,46,4,42,52,6,2
-MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Platinum Grey,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,50,42,6,2
-Lenovo IdeaPad Pro 5,5029,24.0,Intel Core Ultra 7 155H,16.0,Windows 11 Home,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,2048,1280,29,6,2,51,6,2
-Huawei MateBook D 14,2799,24.0,Intel Core i5-1155G7 (11th Gen),14.0,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,46,4,42,53,6,2
-Dell Vostro 3520,2499,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,47,6,6,42,6,2
-Acer Aspire 3 A315-58G-55XH,2049,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,1TB HDD,8,False,Lithium Ion (Li-Ion),HDD,1024.0,1920,1080,45,0,53,41,1,2
-Acer Aspire 3 A315-58G-5657,1799,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,1TB HDD + 256GB SSD M.2,8,False,Lithium Ion (Li-Ion),HDD + 256GB SSD M.2,1024.0,1920,1080,45,0,53,41,2,2
+Product_Name,Product_Price,RAMGB,Storage_Capacity_GB,Storage_Type
+Huawei MateBook 14,4299,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus,3799,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus Zenbook 14 OLED,4799,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus Zenbook 14 OLED,3599,16,1024.0,M.2 NVMe PCIe 3.0 SSD
+MSI Modern 14,2799,16,512.0,NVMe M.2 SSD
+HP Pavilion Plus 14-ew1009nx,3799,16,512.0,PCIe Gen 4 NVMe M.2 SSD
+Huawei MateBook 14,3649,16,512.0,
+Huawei MateBook 14,4999,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+MSI Prestige 13 AI Evo A1MG,4329,32,1024.0,M.2 NVMe PCIe 4.0 SSD
+HP OmniBook X,5499,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus Vivobook S 15 OLED,4999,32,1024.0,M.2 NVMe PCIe 4.0 SSD
+Renewed Grade A Apple MacBook Air 13 M1 Retina,3899,8,512.0,
+Huawei MateBook D 14 2023,4499,16,1024.0,M.2 NVMe PCIe 3.0 SSD
+Asus Vivobook 15X OLED,3299,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Lenovo IdeaPad 3,2199,8,512.0,NVMe M.2 SSD
+Lenovo IdeaPad Slim 3,1629,8,256.0,NVMe M.2 SSD
+Renewed Grade B Apple MacBook Air 13 M2 Retina,3799,8,512.0,
+Lenovo IdeaPad 3,2999,16,512.0,NVMe M.2 SSD
+Asus Vivobook 14X OLED,4699,16,1024.0,M.2 NVMe PCIe 3.0 SSD
+Asus Zenbook 14X OLED,4499,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus ExpertBook B9,3499,16,1024.0,M.2 NVMe PCIe 3.0 SSD
+HP Pavilion Plus 14-ew1008nx,3799,16,512.0,PCIe Gen 4 NVMe M.2 SSD
+Lenovo IdeaPad Slim 3,1499,8,256.0,NVMe M.2 SSD
+Asus Zenbook S 14 OLED with Copilot Key,5899,32,1024.0,M.2 NVMe PCIe 4.0 SSD
+Huawei MateBook 14,3999,16,512.0,
+Asus Vivobook S 14 OLED,4399,32,1024.0,M.2 NVMe PCIe 4.0 SSD
+Acer Aspire 3,1579,8,256.0,NVMe M.2 SSD
+Lenovo IdeaPad Slim 5,4029,16,512.0,PCIe Gen 4 NVMe M.2 SSD
+MSI Modern 15 H AI,2529,16,512.0,
+HP EliteBook 840 G10,6019,32,1024.0,M.2 NVMe PCIe 4.0 SSD
+Asus Vivobook 16X,3399,16,1024.0,M.2 NVMe PCIe 3.0 SSD
+Acer Aspire 3,1929,8,512.0,NVMe M.2 SSD
+Asus Vivobook Go 15,1499,8,512.0,PCIe 3.0 NVMe M.2 SSD
+Honor MagicBook Art 14,5999,32,1024.0,
+Lenovo IdeaPad 5 Pro,4699,16,512.0,NVMe M.2 SSD
+Lenovo Yoga Slim 6,3729,16,512.0,NVMe M.2 SSD
+Huawei MateBook 14,4999,16,1024.0,M.2 NVMe PCIe 4.0 SSD
+Dell Vostro 3520,3299,8,512.0,NVMe M.2 SSD
+Huawei MateBook D 15,3449,16,512.0,NVMe M.2 SSD
+HP,3399,16,512.0,NVMe M.2 SSD
+Lenovo ThinkPad E14 Gen 6,4799,8,512.0,NVMe M.2 SSD
+Dell Vostro 3520,1849,8,512.0,NVMe M.2 SSD
+Huawei MateBook D 15,3049,8,512.0,NVMe M.2 SSD
+MSI Modern 14,2799,16,512.0,NVMe M.2 SSD
+Lenovo IdeaPad Pro 5,5029,16,512.0,NVMe M.2 SSD
+Huawei MateBook D 14,2799,8,512.0,NVMe M.2 SSD
+Dell Vostro 3520,2499,8,512.0,NVMe M.2 SSD
+Acer Aspire 3 A315-58G-55XH,2049,8,1024.0,HDD
+Acer Aspire 3 A315-58G-5657,1799,8,1024.0,HDD + 256GB SSD M.2
