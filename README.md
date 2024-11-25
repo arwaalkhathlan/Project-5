@@ -53,3 +53,12 @@ The data for this project was collected from two major retail websites, **Jarir*
 1. **User Input**: The user enters details in the sidebar, such as the desired price, RAM, storage capacity, and storage type.
 2. **Model Prediction**: The app sends the input data to a deployed API, which uses the K-means clustering model to predict the optimal laptop cluster.
 3. **Results Displayed**: The recommended laptops from the corresponding cluster are displayed in a data table.
+
+## Streamlit Deployment 
+
+[Laptop Recommendation System](https://laptop-pred.streamlit.app/)
+
+
+## Bouns 
+
+[Laptop Recommendation System Dataset](https://www.kaggle.com/datasets/raghad2009/laptop-recommendation-system-dataset/settings)

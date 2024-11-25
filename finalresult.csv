@@ -1,0 +1,458 @@
+Product_Name,Product_Price,Warranty_Period(Months),Processor_Type,Screen_Size(inch),Operating_System,Color,Storage_Capacity,RAMGB,Touch_Display,Battery_Type,Storage_Type,Storage_Capacity_GB,Pixels_Width,Pixels_Height,Processor_Type_encoded,Operating_System_encoded,Color_encoded,Battery_Type_encoded,Storage_Type_encoded,kmeans
+Huawei MateBook 14,4299,24.0,Intel Core Ultra 5 125H,14.2,Windows 11 Home,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,25,6,64,51,4,2
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,64,51,13,3
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,66,51,13,3
+Asus,3799,24.0,AMD Ryzen 7-8840HS,14.0,Windows 11,Jade Black,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,15,4,31,43,4,2
+Microsoft Surface  7,9699,24.0,Snapdragon X Elite 12 Core,15.0,Windows 11 Home,Black,1 TB SSD,32,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,1024.0,2496,1664,99,6,5,44,13,1
+Asus Zenbook 14 OLED,4799,24.0,Intel Core Ultra 9 185H,14.0,Windows 11 Home,Ponder Blue,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,35,6,52,43,4,2
+Asus Zenbook 14 OLED,3599,24.0,AMD Ryzen 7-7730U,14.0,Windows 11,Jade Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,2880,1800,12,4,31,43,3,2
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Space Grey,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1600,85,9,64,48,13,0
+HP Pavilion,4499,24.0,Intel Core Ultra 7 155U,16.0,Windows 11 Home,Sky Blue,1 TB PCIe Gen4,16,False,Lithium Ion (Li-Ion),PCIe Gen4,1024.0,1920,1200,31,6,59,41,10,1
+MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Urban Silver,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,75,42,6,2
+HP Pavilion Plus 14-ew1009nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Natural Silver,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 4 Cell,PCIe Gen 4 NVMe M.2 SSD,512.0,2880,1800,25,6,43,50,9,2
+HP EliteBook 840 G10,4019,60.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Pro,Ash Silver,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,70,7,3,52,11,0
+Huawei MateBook 14,3649,24.0,Intel Core i5-1240P (12th Gen),14.0,Windows 11,Space Grey,512 GB,16,True,Lithium Ion Polymer (Li-Poly),,512.0,2160,1440,48,4,64,48,0,2
+Apple MacBook Pro 14 M4 Pro Retina XDR,11399,24.0,M4 Pro 14-core CPU,14.2,macOS Sequoia,Silver,1 TB SSD,24,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,94,11,58,51,13,1
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,37,51,13,3
+Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Space Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,29,6,64,51,4,2
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Silver,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1600,85,9,58,48,13,0
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,66,48,13,3
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Sapphire,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,55,44,13,3
+MSI Prestige 13 AI Evo A1MG,4329,24.0,Intel Core Ultra 7 155H,13.3,Windows 11 Home,Stellar Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Polymer (Li-Po) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,29,6,69,53,4,2
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,66,51,13,3
+HP OmniBook X,5499,24.0,Snapdragon X Elite,14.0,Windows 11 (with Windows 11 Copilot),Meteor Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,True,Lithium Ion Polymer (Li-Poly) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2240,1400,98,5,35,49,4,2
+Asus Vivobook S 15 OLED,4999,24.0,Snapdragon X Elite,15.6,Windows 11 Home,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1620,98,6,8,42,4,2
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Midnight,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1664,86,10,37,48,13,0
+Lenovo Yoga Pro 9,9029,24.0,Intel Core Ultra 9 185H,16.0,Windows 11,Luna Grey,1 TB SSD,32,False,Lithium Polymer (Li-Po),SSD,1024.0,3200,2000,35,4,33,51,13,1
+HP Pavilion Plus,3999,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Natural Silver,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,1024.0,2880,1800,70,4,43,49,11,1
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,64,51,13,3
+Renewed Grade A Apple MacBook Air 13 M1 Retina,3899,6.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Space Grey,512 GB,8,False,Lithium Ion Polymer (Li-Poly),,512.0,2560,1600,85,9,64,48,0,2
+Apple MacBook Pro 14 M4 Retina XDR,9399,24.0,M4 10-core CPU,14.2,macOS Sequoia,Space Black,1 TB SSD,24,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,92,11,62,51,13,1
+Acer Aspire 5,1999,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Steel Grey,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 4 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,47,4,68,43,11,0
+Microsoft Surface  Go 3,2999,24.0,Intel Core i5-1235U (12th Gen),12.4,Windows 11 Home,Platinum,256 GB SSD,8,True,Lithium Ion (Li-Ion),SSD,256.0,1536,1024,47,6,49,41,13,0
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,58,51,13,3
+Apple MacBook Pro 13 M2 Retina + Touch Bar,5249,24.0,M2 8-core CPU 16-core Neural Engine,13.3,macOS Monterey,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1600,86,10,64,51,13,3
+Renewed Grade A Apple MacBook Pro 16 M3 Pro Retina XDR,9899,6.0,M3 Pro 12-core CPU,16.0,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,91,12,62,51,13,3
+HP Pavilion Plus,2899,24.0,Intel Core i5-1340P (Evo 13th Gen),14.0,Windows 11,Natural Silver,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,512.0,2240,1400,55,4,43,49,11,0
+Acer Swift SF14-11-X41L,5029,24.0,Snapdragon X Plus 10 Core,14.5,Windows 11,Silver,1 TB SSD,16,False,Lithium Ion (Li-Ion),SSD,1024.0,2560,1600,101,4,58,41,13,1
+HP Notebook,2099,24.0,AMD Ryzen 5-7520U,15.6,Windows 11 Home,Natural Silver,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,SSD,512.0,1920,1080,5,6,43,49,13,0
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,37,51,13,3
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Starlight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,66,51,13,3
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,37,51,13,3
+Acer Swift SF314-43-R9GG,2429,24.0,AMD Ryzen 7-5700U,14.0,Windows 11,Silver,1 TB SSD,16,False,Lithium Ion (Li-Ion),SSD,1024.0,1920,1080,7,4,58,41,13,1
+Huawei MateBook D 14 2023,4499,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11,Mystic Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Polymer (Li-Po) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1200,71,4,42,53,3,2
+Huawei MateBook D 16 2024,3199,24.0,Intel Core i5-12450H (12th Gen),16.0,Windows 11 Home,Mystic Silver,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,512.0,1920,1200,49,6,42,51,11,0
+Huawei MateBook D 14 2023,2499,24.0,Intel Core i5-12450H (12th Gen),14.0,Windows 11,Mystic Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po) - 4 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,49,4,42,53,11,0
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,37,51,13,3
+HP Notebook 15s,2319,24.0,Intel Core i5-1334U (13th Gen),15.6,Windows 11,Moonlight Blue,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,52,4,40,49,11,0
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Starlight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,66,51,13,3
+Lenovo Yoga Slim 7,6229,24.0,Snapdragon X Elite,14.5,Windows 11 Home,Cosmic Blue,1 TB SSD,32,True,Lithium Polymer (Li-Po) - 4 Cell,SSD,1024.0,2944,1840,98,6,9,53,13,1
+HP Pavilion,4499,24.0,Intel Core Ultra 7 155U,16.0,Windows 11 Home,Natural Silver,1 TB PCIe Gen4,16,False,Lithium Ion (Li-Ion),PCIe Gen4,1024.0,1920,1200,31,6,43,41,10,1
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Midnight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,37,51,13,3
+Asus Vivobook 15X OLED,3299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1080,71,4,8,42,4,2
+Acer Swift Go 14,3229,24.0,Intel Core Ultra 5 125H (Evo),14.0,Windows 11,Silver,512 GB SSD,16,False,Lithium Ion (Li-Ion),SSD,512.0,2880,1800,26,4,58,41,13,0
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Space Grey,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,64,51,13,3
+Acer Aspire 3 A315-59-566E,1929,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Silver,512 GB SSD,8,False,Lithium Ion (Li-Ion),SSD,512.0,1920,1080,47,4,58,41,13,0
+Huawei MateBook X Pro,6999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,White,1 TB PCIe NVMe M.2 SSD,16,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,3120,2080,29,6,76,51,11,1
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,58,51,13,3
+HP,1819,24.0,Intel Core i3-1315U (13th Gen),15.6,Windows 11,Natural Silver,256 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,256.0,1920,1080,39,4,43,49,11,0
+Apple MacBook Air 13 M1 Retina,2999,24.0,M1 8-core CPU 16-core Neural Engine,13.3,macOS Big Sur,Gold,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1600,85,9,20,48,13,0
+Acer Aspire 5,2729,24.0,Intel Core i7-13620H (13th Gen),15.6,Windows 11,Grey,512 GB SSD,16,False,Lithium Ion (Li-Ion),SSD,512.0,1920,1080,72,4,26,41,13,0
+Lenovo IdeaPad Slim 3,2829,24.0,Intel Core i7-13620H (13th Gen),15.6,Windows 11 Home,Arctic Grey,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,1920,1080,72,6,2,51,11,1
+Lenovo IdeaPad 3,2199,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1080,47,4,2,51,6,2
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Not Applicable,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,44,44,13,3
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,66,51,13,3
+Huawei MateBook 14,4999,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11,Space Grey,1 TB SSD,16,True,Lithium Polymer (Li-Po),SSD,1024.0,2160,1440,71,4,64,51,13,1
+Renewed Grade A Huawei MateBook X Pro,6899,6.0,Intel Core Ultra 9 185H,14.2,Windows 11 Home,Morandi Blue,2 TB PCIe NVMe M.2 SSD,32,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,2048.0,3120,2080,35,6,41,51,11,1
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Space Black,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3456,2234,94,11,62,51,13,3
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Space Grey,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,64,51,13,3
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
+Renewed Grade A Apple MacBook Air 13 M3,4499,6.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
+Huawei MateBook D 16 2024,4999,24.0,Intel Core i9-13900H (13th Gen),16.0,Windows 11 Home,Mystic Silver,1 TB SSD,16,False,Lithium Polymer (Li-Po),SSD,1024.0,1920,1200,81,6,42,51,13,1
+Lenovo IdeaPad Slim 3,1629,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11 Home,Arctic Grey,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1080,42,6,2,41,6,2
+Renewed Grade B Apple MacBook Air 13 M2 Retina,3799,3.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,512 GB,8,False,Lithium Ion Polymer (Li-Poly),,512.0,2560,1664,86,10,66,48,0,2
+Lenovo Yoga Pro 7,6629,24.0,AMD Ryzen 9,14.5,Windows 11 Home,Luna Grey,1 TB SSD,32,False,Lithium Polymer (Li-Po),SSD,1024.0,2880,1800,16,6,33,51,13,1
+Microsoft Surface  7,4699,24.0,Snapdragon X Plus 10 Core,13.8,Windows 11 Home,Platinum,256 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,256.0,2304,1536,101,6,49,44,13,3
+Lenovo IdeaPad 3,2999,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1080,64,4,2,51,6,2
+Asus Vivobook 14X OLED,4699,24.0,Intel Core i9-13900H (13th Gen),14.0,Windows 11,Cool Silver,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,2880,1800,81,4,8,42,3,2
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Space Grey,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1664,86,10,64,48,13,0
+Asus Zenbook 14X OLED,4499,24.0,Intel Core i9-13900H (Evo 13th Gen),14.5,Windows 11,Inkwell Grey,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,82,4,30,42,4,2
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,58,51,13,3
+Asus ExpertBook B9,3499,36.0,Intel Core i7-1165G7 (Evo 11th Gen),14.0,Windows 10 Pro,Star Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1080,61,2,65,43,3,2
+Apple MacBook Air 15 M2,6799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,86,13,66,51,13,3
+Asus Vivobook Pro 15 OLED,2649,24.0,AMD Ryzen 5-5600H,15.6,Windows 11,Cool Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,3,4,8,42,11,0
+Acer Swift Go 14,4029,24.0,Intel Core Ultra 7 155H (Evo),14.0,Windows 11,Silver,1 TB SSD,32,False,Lithium Ion (Li-Ion),SSD,1024.0,2880,1800,30,4,58,41,13,1
+Apple MacBook Pro 14 M4 Retina XDR,8499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Space Black,1 TB SSD,16,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,92,11,62,51,13,1
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,37,51,13,3
+MSI Modern 14,2229,24.0,Intel Core i7-1255U (12th Gen),14.0,Windows 11,Black,512 GB SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,SSD,512.0,1920,1080,64,4,5,42,13,0
+Apple MacBook Pro 14 M3 Retina XDR,7899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Space Grey,1 TB SSD,8,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,89,12,64,51,13,1
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,12,64,51,13,3
+HP Pavilion Plus 14-ew1008nx,3799,24.0,Intel Core Ultra 5 125H,14.0,Windows 11 Home,Moonlight Blue,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 4 Cell,PCIe Gen 4 NVMe M.2 SSD,512.0,2880,1800,25,6,40,50,9,2
+Acer Swift Go 14,3029,24.0,Intel Core Ultra 5 125H (Evo),14.0,Windows 11,Silver,512 GB SSD,16,False,Lithium Ion (Li-Ion),SSD,512.0,2880,1800,26,4,58,41,13,0
+HP EliteBook 840 G11,6519,24.0,Intel Core Ultra 7 155U,14.0,Windows 11 Pro,Silver,1 TB NVMe PCIe Gen 4×4 SSD,32,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,NVMe PCIe Gen 4×4 SSD,1024.0,1920,1200,31,7,58,49,7,1
+Apple MacBook Pro 14 M3 Pro Retina XDR,9499,24.0,M3 Pro 11-core CPU,14.2,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,90,12,62,51,13,3
+Apple MacBook Pro 14 M2 Pro Retina XDR,8399,24.0,M2 Pro 10-core CPU 16-core Neural Engine,14.2,macOS Ventura,Space Grey,512 GB SSD,16,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,3024,1964,87,13,64,48,13,3
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,86,11,64,51,13,3
+Huawei MateBook D 16 2024,3499,24.0,Intel Core i5-13420H (13th Gen),16.0,Windows 11,Mystic Silver,1 TB SSD,16,False,Lithium Polymer (Li-Po),SSD,1024.0,1920,1200,56,4,42,51,13,1
+Lenovo IdeaPad Slim 3,1499,24.0,Intel Core i3-1305U (13th Gen),14.0,Windows 11,Arctic Grey,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1080,38,4,2,41,6,2
+Apple MacBook Air 15 M2,5199,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,64,51,13,3
+Asus Zenbook S 14 OLED with Copilot Key,5899,24.0,Intel Core Ultra 7 258V 32 GB,14.0,Windows 11 Home,Zumaia Grey,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1800,32,6,77,43,4,2
+Microsoft Surface  7,6799,24.0,Snapdragon X Elite 12 Core,15.0,Windows 11 Home,Black,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2496,1664,99,6,5,44,13,3
+Huawei MateBook 14,3999,24.0,Intel Core i5-1340P (13th Gen),14.0,Windows 11,Space Grey,512 GB,16,True,Lithium Ion Polymer (Li-Poly),,512.0,2160,1440,54,4,64,48,0,2
+Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Starlight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,66,51,13,3
+Lenovo Yoga Slim 6 OLED,3399,24.0,Intel Core i7-1260P (Evo 12th Gen),14.0,Windows 11,Storm Grey,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,1920,1200,66,4,70,51,11,1
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sequoia,Midnight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,11,37,51,13,3
+Asus Vivobook S 14 OLED,4399,24.0,AMD Ryzen 9-8945HS,14.0,Windows 11 Home,Cool Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Ion (Li-Ion) - 4 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,18,6,8,43,4,2
+Apple MacBook Pro 16 M4 Pro Retina XDR,11499,24.0,M4 Pro 14-core CPU,16.0,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3456,2234,94,11,58,51,13,3
+Acer Aspire 3,1579,24.0,Intel Core i3-N305 (13th Gen),14.0,Windows 11,Silver,256 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,256.0,1920,1200,42,4,58,41,6,2
+HP Pavilion,4299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Fog Blue,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,1024.0,1920,1080,71,4,19,42,11,1
+Apple MacBook Pro 14 M2 Pro Retina XDR,10399,24.0,M2 Pro 12-core CPU 16-core Neural Engine,14.2,macOS Ventura,Silver,1 TB SSD,16,False,Lithium Ion Polymer (Li-Poly),SSD,1024.0,3024,1964,88,13,58,48,13,1
+Huawei MateBook D 16 2024,4299,24.0,Intel Core i7-13700H (13th Gen),16.0,Windows 11 Home,Mystic Silver,1 TB SSD,16,False,Lithium Polymer (Li-Po),SSD,1024.0,1920,1200,74,6,42,51,13,1
+Lenovo IdeaPad Slim 5,4029,24.0,Intel Core Ultra 7 155H,14.0,Windows 11 Home,Cloud Grey,512 GB PCIe Gen 4 NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion),PCIe Gen 4 NVMe M.2 SSD,512.0,1920,1200,29,6,7,41,9,2
+MSI Modern 15 H AI,2529,24.0,Intel Core Ultra 5 125H,15.6,Windows 11 Home,Black,512 GB,16,False,Lithium Polymer (Li-Po) - 3 Cell,,512.0,1920,1080,25,6,5,52,0,2
+Huawei MateBook D 16 2024,2199,24.0,Intel Core i5-12450H (12th Gen),16.0,Windows 11 Home,Mystic Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,512.0,1920,1200,49,6,42,51,11,0
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Silver,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,93,11,58,51,13,3
+MSI Modern 14,1629,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Black,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,47,4,5,49,11,0
+Apple MacBook Pro 14 M4 Pro Retina XDR,11399,24.0,M4 Pro 14-core CPU,14.2,macOS Sequoia,Space Black,1 TB SSD,24,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,94,11,62,51,13,1
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,64,51,13,3
+HP EliteBook 840 G10,6019,24.0,Intel Core i7-1370P (13th Gen),14.0,Windows 11 Pro,Aluminum Silver,1 TB M.2 NVMe PCIe 4.0 SSD,32,False,Lithium Polymer (Li-Po) - 3 Cell,M.2 NVMe PCIe 4.0 SSD,1024.0,1920,1200,76,7,1,52,4,2
+Lenovo Yoga Pro 9,8499,24.0,Intel Core Ultra 9 185H,16.0,Windows 11 Home,Luna Grey,1 TB PCIe NVMe M.2 SSD,32,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,3200,2000,35,6,33,51,11,1
+Huawei MateBook D 14,2699,24.0,Intel Core i5-12450H (12th Gen),14.0,Windows 11 Home,Mystic Silver,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 4 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,49,6,42,53,11,0
+Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Silver,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,92,11,58,51,13,3
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,58,51,13,3
+Asus Vivobook 16X,3399,24.0,Intel Core i7-12700H (12th Gen),16.0,Windows 11 Home,Indie Black,1 TB M.2 NVMe PCIe 3.0 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,M.2 NVMe PCIe 3.0 SSD,1024.0,1920,1200,69,6,29,42,3,2
+Apple MacBook Pro 14 M4 Pro Retina XDR,9499,24.0,M4 Pro 12-core CPU,14.2,macOS Sequoia,Space Black,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,93,11,62,51,13,3
+Acer Swift Go 14,4529,24.0,Intel Core Ultra 7 155H (Evo),14.0,Windows 11,Silver,1 TB SSD,32,False,Lithium Ion (Li-Ion),SSD,1024.0,2880,1800,30,4,58,41,13,1
+Huawei MateBook X Pro,6999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Black,1 TB PCIe NVMe M.2 SSD,16,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,3120,2080,29,6,5,51,11,1
+Asus Vivobook S 15 OLED,2399,24.0,Intel Core i5-13500H (Evo 13th EVO),15.6,Windows 11 Home,Cool Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,59,6,8,42,11,0
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Midnight,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,37,51,13,3
+HP Notebook 15s,2319,24.0,Intel Core i5-1334U (13th Gen),15.6,Windows 11,Natural Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,52,4,43,49,11,0
+Apple MacBook Air 13 M3,7099,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,66,51,13,3
+Acer Aspire 3,1929,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11,Silver,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,47,4,58,43,6,2
+Lenovo IdeaPad Slim 3,2229,24.0,Intel Core i5-12450H (12th Gen),15.6,Windows 11 Home,Arctic Grey,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion),PCIe NVMe M.2 SSD,1024.0,1920,1080,49,6,2,41,11,1
+Asus Vivobook Go 15,1499,24.0,Intel Core i3-N305 (13th Gen),15.6,Windows 11 Home,Cool Silver,512 GB PCIe 3.0 NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe 3.0 NVMe M.2 SSD,512.0,1920,1080,42,6,8,42,8,2
+Honor MagicBook Art 14,5999,24.0,Intel Core Ultra 7 155H,14.6,Windows 11 Home,Emerald Green,1 TB,32,True,Lithium Polymer (Li-Po),,1024.0,3120,2080,29,6,18,51,0,2
+Renewed Grade B Apple MacBook Pro 14 M3 Retina XDR,6499,3.0,M3 8-core CPU,14.2,macOS Sonoma,Space Grey,1 TB SSD,8,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,89,12,64,51,13,1
+Huawei MateBook X Pro,8499,24.0,Intel Core Ultra 9 185H,14.2,Windows 11 Home,Morandi Blue,2 TB PCIe NVMe M.2 SSD,32,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,2048.0,3120,2080,35,6,41,51,11,1
+Lenovo IdeaPad 5 Pro,4699,24.0,Intel Core i7-13700H (13th Gen),16.0,Windows 11,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion),NVMe M.2 SSD,512.0,2560,1600,74,4,2,41,6,2
+Lenovo Yoga Slim 6,3729,24.0,Intel Core i7-13700H (13th Gen),14.0,Windows 11 Home,Misty Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 4 Cell,NVMe M.2 SSD,512.0,1920,1200,74,6,39,53,6,2
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Space Grey,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,64,51,13,3
+Asus Vivobook 16,2399,24.0,Intel Core i7-1355U (13th Gen),16.0,Windows 11,Indie Black,512 GB PCIe NVMe M.3 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.3 SSD,512.0,1920,1200,70,4,29,42,12,0
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Silver,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,58,51,13,3
+Apple MacBook Pro 14 M3 Pro Retina XDR,11299,24.0,M3 Pro 12-core CPU,14.2,macOS Sonoma,Space Black,1 TB SSD,18,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,91,12,62,51,13,1
+Huawei MateBook 14,4999,24.0,Intel Core Ultra 7 155H,14.2,Windows 11 Home,Green,1 TB M.2 NVMe PCIe 4.0 SSD,16,False,Lithium Polymer (Li-Po),M.2 NVMe PCIe 4.0 SSD,1024.0,2880,1920,29,6,24,51,4,2
+Asus Vivobook Go 15 OLED,1899,24.0,AMD Ryzen 5-7520U,15.6,Windows 11,Green Grey,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,5,4,25,42,11,0
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Midnight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,37,51,13,3
+Asus Vivobook 15,2799,24.0,Intel Core i7-1355U (13th Gen),15.6,Windows 11 Home,Quiet Blue,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,70,6,54,42,11,0
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,37,51,13,3
+Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,66,51,13,3
+Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Silver,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,89,12,58,51,13,3
+Apple MacBook Pro 16 M3 Pro Retina XDR,10899,24.0,M3 Pro 12-core CPU,16.0,macOS Sonoma,Space Black,512 GB SSD,18,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,91,12,62,51,13,3
+Apple MacBook Air 13 M2 Retina,4499,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1664,86,10,66,48,13,0
+Lenovo Yoga Pro 7,7329,24.0,Intel Core Ultra 9 185H,14.5,Windows 11 Home,Luna Grey,1 TB PCIe NVMe M.2 SSD,32,True,Lithium Polymer (Li-Po),PCIe NVMe M.2 SSD,1024.0,3072,1920,35,6,33,51,11,1
+Asus Vivobook 15,2399,24.0,Intel Core i5-1335U (13th Gen),15.6,Windows 11,Quiet Blue,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,53,4,54,42,11,0
+Asus Vivobook Go 15 OLED,2099,24.0,AMD Ryzen 5-7520U,15.6,Windows 11 Home,Green Grey,512 GB PCIe NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,5,6,25,42,11,0
+Apple MacBook Air 13 M3,6199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,89,12,64,51,13,3
+HP Pavilion Plus 14-ew1001nx,5499,24.0,Intel Core Ultra 7 155H,14.0,Windows 11 Home,Natural Silver,1 TB PCIe NVMe M.2 SSD,32,False,Lithium Ion Polymer (Li-Poly) - 4 Cell,PCIe NVMe M.2 SSD,1024.0,2880,1800,29,6,43,50,11,1
+Microsoft Surface  7,6299,24.0,Snapdragon X Elite 12 Core,13.8,Windows 11 Home,Dune,512 GB SSD,16,True,Lithium Ion (Li-Ion) - 6 Cell,SSD,512.0,2304,1536,99,6,13,44,13,3
+Dell Vostro 3520,3299,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,64,6,6,43,6,2
+Huawei MateBook D 15,3449,24.0,Intel Core i7-1195G7 (11th Gen),15.6,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,63,4,42,52,6,2
+HP,3399,24.0,Intel Core i7-1355U (13th Gen),15.6,Windows 11,Natural Silver,512 GB NVMe M.2 SSD,16,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,43,49,6,2
+Apple MacBook Pro 14 M4 Retina XDR,8499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Silver,1 TB SSD,16,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,92,11,58,51,13,1
+Lenovo ThinkPad E14 Gen 6,4799,24.0,Intel Core Ultra 5 125U,14.0,Windows 11 Pro,Black,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,1920,1200,27,7,5,51,6,2
+Renewed Grade B Apple MacBook Pro 14 M2 Pro Retina XDR,6499,3.0,M2 Pro 10-core CPU 16-core Neural Engine,14.2,macOS Ventura,Space Grey,512 GB SSD,16,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,3024,1964,87,13,64,48,13,3
+Renewed Grade A Apple MacBook Air 13 M2 Retina,2999,6.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Midnight,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1664,86,10,37,48,13,0
+Asus Zenbook DUO  (with Sleeve Case & Stylus),7799,24.0,Intel Core Ultra 9 185H,14.0,Windows 11 (with Windows 11 Copilot),Inkwell Grey,2 TB M.2 PCIe NVMe 4.0 SSD,32,True,Lithium Ion (Li-Ion) - 4 Cell,M.2 PCIe NVMe 4.0 SSD,2048.0,2880,1800,35,5,30,43,5,1
+Apple MacBook Air 15 M3,6999,24.0,M3 8-core CPU,15.3,macOS Sonoma,Midnight,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,12,37,51,13,3
+Dell Vostro 3520,1849,24.0,Intel Core i3-1215U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,37,6,6,42,6,2
+Apple MacBook Pro 14 M4 Retina XDR,9399,24.0,M4 10-core CPU,14.2,macOS Sequoia,Silver,1 TB SSD,24,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,92,11,58,51,13,1
+Apple MacBook Air 15 M3,7899,24.0,M3 8-core CPU,15.3,macOS Sequoia,Space Grey,512 GB SSD,24,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,89,11,64,51,13,3
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Space Grey,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,64,48,13,3
+Huawei MateBook D 15,3049,24.0,Intel Core i5-1155G7 (11th Gen),15.6,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,46,4,42,52,6,2
+Renewed Grade A Apple MacBook Pro 14 M3 Retina XDR,6799,6.0,M3 8-core CPU,14.2,macOS Sonoma,Silver,1 TB SSD,8,False,Lithium Polymer (Li-Po),SSD,1024.0,3024,1964,89,12,58,51,13,1
+HP Pavilion,4299,24.0,Intel Core i7-1360P (13th Gen),15.6,Windows 11,Natural Silver,1 TB PCIe NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,PCIe NVMe M.2 SSD,1024.0,1920,1080,71,4,43,42,11,1
+MSI Modern 14,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11,Platinum Grey,512 GB NVMe M.2 SSD,16,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,70,4,50,42,6,2
+Apple MacBook Pro 14 M3 Retina XDR,6899,24.0,M3 8-core CPU,14.2,macOS Sonoma,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,89,12,64,51,13,3
+MSI Modern 14,1629,24.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11,Silver,512 GB PCIe NVMe M.2 SSD,8,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,PCIe NVMe M.2 SSD,512.0,1920,1080,47,4,58,49,11,0
+Renewed Grade A Apple MacBook Air 13 M2 Retina,2999,6.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Starlight,256 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,256.0,2560,1664,86,10,66,48,13,0
+Apple MacBook Pro 14 M4 Retina XDR,7499,24.0,M4 10-core CPU,14.2,macOS Sequoia,Space Black,512 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,512.0,3024,1964,92,11,62,51,13,3
+Apple MacBook Air 15 M3,5999,24.0,M3 8-core CPU,15.3,macOS Sequoia,Silver,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,89,11,58,51,13,3
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sonoma,Starlight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,12,66,51,13,3
+Apple MacBook Air 13 M2 Retina,5699,24.0,M2 8-core CPU 16-core Neural Engine,13.6,macOS Monterey,Midnight,512 GB SSD,8,False,Lithium Ion Polymer (Li-Poly),SSD,512.0,2560,1664,86,10,37,48,13,3
+HP Notebook,2999,24.0,AMD Ryzen 7-7730U,15.6,Windows 11 Home,Natural Silver,512 GB SSD,16,False,Lithium Ion Polymer (Li-Poly) - 3 Cell,SSD,512.0,1920,1080,12,6,43,49,13,0
+Apple MacBook Air 15 M2,5999,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Space Grey,512 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2880,1864,86,13,64,51,13,3
+Apple MacBook Air 13 M3,5199,24.0,M3 8-core CPU,13.6,macOS Sequoia,Starlight,256 GB SSD,16,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,89,11,66,51,13,3
+Lenovo IdeaPad Pro 5,5029,24.0,Intel Core Ultra 7 155H,16.0,Windows 11 Home,Arctic Grey,512 GB NVMe M.2 SSD,16,False,Lithium Polymer (Li-Po),NVMe M.2 SSD,512.0,2048,1280,29,6,2,51,6,2
+Huawei MateBook D 14,2799,24.0,Intel Core i5-1155G7 (11th Gen),14.0,Windows 11,Mystic Silver,512 GB NVMe M.2 SSD,8,False,Lithium Polymer (Li-Po) - 4 Cell,NVMe M.2 SSD,512.0,1920,1080,46,4,42,53,6,2
+Dell Vostro 3520,2499,24.0,Intel Core i5-1235U (12th Gen),15.6,Windows 11 Home,Carbon Black,512 GB NVMe M.2 SSD,8,False,Lithium Ion (Li-Ion) - 3 Cell,NVMe M.2 SSD,512.0,1920,1080,47,6,6,42,6,2
+Apple MacBook Air 15 M2,5799,24.0,M2 8-core CPU 16-core Neural Engine,15.3,macOS Ventura,Midnight,256 GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2880,1864,86,13,37,51,13,3
+Microsoft Surface Pro 9,6799,24.0,Intel Core i7-1265U (12th Gen) Evo Platform,13.0,Windows 11 Home,Graphite,512GB SSD M.2,16,True,Up to 15.5 hours of typical device usage,SSD M.2,512.0,2880,1920,68,6,21,54,14,3
+Acer Travelmate TMP215-53-596G,1899,36.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Shale Black,512GB SSD M.2,8,False,Lithium Ion (Li-Ion),SSD M.2,512.0,1920,1080,45,0,57,41,14,0
+MacBook Air M2 15.3 2023,4499,24.0,Apple M2 chip,15.3,macOS Ventura,Midnight,256GB SSD,8,False,Up to 18 hours of typical device usage,SSD,256.0,2880,1864,21,13,37,56,13,0
+Acer Aspire 3 A315-58-74GF,1999,24.0,Intel Core i7-1165G7 (11th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,36Wh Li-ion battery,SSD M.2,512.0,1920,1080,60,0,53,7,14,0
+Asus ROG Zephyrus GU603VV-N4078W,7199,24.0,Intel Core i7-13620H (13th Gen),16.0,Windows 11 Home,Eclipse Gray,1TB SSD M.2,32,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,2560,1600,72,6,16,22,14,1
+HP Elite Dragonfly G3,6999,36.0,Intel Core i7-1255U (12th Gen),13.5,Windows 11 Professional,Slate blue,512GB SSD M.2,16,True,"HP Long Life 6-cell, 68 Wh Li-ion polymer",SSD M.2,512.0,1920,1280,64,8,61,27,14,3
+Apple MacBook Pro M3,7199,24.0,Apple M3 chip,14.2,macOS Sonoma,Silver,512GB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,58,20,13,3
+ThinkPad E15 Gen 4,7199,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Black,512GB SSD,8,False,Lithium 3 Cell,SSD,512.0,1920,1080,64,0,5,39,13,3
+HP EliteBook 640 14 inch G9,3299,36.0,Intel Core i7-1255U (12th Gen),14.0,Dos,Silver,512GB SSD M.2,8,False,"HP Long Life 3-cell, 51 Wh Li-ion",SSD M.2,512.0,1920,1080,64,0,58,25,14,0
+Acer Aspire Lite AL14-31P-34U9,1299,24.0,Intel Core i3-N300,14.0,Dos,Silver,512GB SSD M.2,8,False,Integrated 45Wh,SSD M.2,512.0,1920,1200,40,0,58,28,14,0
+Acer Aspire 3 A315-59-58XR,1499,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,47,0,53,14,14,0
+Lenovo IdeaPad Flex 5 14IRU8,3299,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Home,Arctic Grey,512GB SSD M.2,16,True,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,70,6,2,30,14,0
+Dell Latitude 3540,3299,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+Microsoft Surface Pro 9,3899,24.0,Intel Core i5-1245U (12th Gen) Evo Platform,13.0,Windows 11 Home,Platinum,256GB SSD M.2,8,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,50,6,49,54,14,0
+HP 15s-fq5037nx,2399,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Natural Silver,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,64,0,43,6,14,0
+Dell Latitude 5540,2399,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Gray,512GB SSD M.2,16,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,70,0,23,2,14,0
+Lenovo Yoga 7 14IRL8,4399,24.0,Intel Core i7-1360P (13th Gen),14.0,Windows 11 Home,Storm Grey,512GB SSD M.2,16,True,Integrated 71Wh,SSD M.2,512.0,1920,1200,71,6,70,35,14,3
+Microsoft Surface Studio,4999,24.0,Quad-core Intel Core H35 i5-11300H (11th Gen),14.4,Windows 11 Home,Platinum,256GB SSD,16,True,Up to 19 hours of typical device usage,SSD,256.0,2400,1600,96,6,49,57,13,3
+Lenovo Legion 5 Pro 16IRX9,7499,24.0,Intel Core i7-14700HX (14th Generation),16.0,Windows 11 Home,Onyx Grey,1TB SSD M.2,16,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,78,6,47,36,14,1
+Acer Aspire 3 A315-59-74JV,1899,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,64,0,53,14,14,0
+Latitude 3450,1899,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Black,512GB SSD M.2,16,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,70,0,5,2,14,0
+HP Victus Gaming 16-r0007nx,5099,24.0,Intel Core i7-13700H (13th Gen),16.1,Dos,Mica Silver,1TB SSD M.2,32,False,"4-cell, 70 Wh Li-ion polymer",SSD M.2,1024.0,1920,1080,74,0,36,10,14,1
+Apple MacBook Pro 16-Inch M3 Pro,11299,24.0,Apple M3 Pro chip,16.2,macOS Sonoma,Space Black,512GB SSD,18,False,100-watt-hour lithium-polymer battery,SSD,512.0,3456,2234,22,12,62,0,13,3
+ThinkBook 15 G4 IAP,11299,36.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Professional,Mineral Grey,512GB SSD M.2,16,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,64,8,38,39,14,3
+apple MacBook Air M2 (2024),11299,24.0,Apple M2 chip,13.6,macOS Monterey,Steel Gray,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,67,15,13,3
+Acer Aspire 3 A315-59-31LZ,1149,24.0,Intel Core i3-1215U (12th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,37,0,53,14,14,0
+Lenovo Legion 5 Pro 16IRX9,8499,24.0,Intel Core i9-14900HX (14th Generation),16.0,Windows 11 Home,Onyx Grey,1TB SSD M.2,32,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,84,6,47,36,14,1
+Lenovo LOQ 15IRX9 Gaming,3999,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Luna Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,73,0,33,33,14,0
+HP 15-fd0019nx,2499,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Natural Silver,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,70,0,43,6,14,0
+Asus ROG Strix G16 G614JIR-N4003,7799,24.0,Intel Core i9-14900HX (14th Generation),16.0,Dos,Eclipse Gray,1TB SSD M.2,32,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,2560,1600,84,0,16,22,14,1
+Lenovo IdeaPad Slim 3 15IRH8,2099,24.0,Intel Core i5-13420H (13th Gen),15.6,Windows 11 Home,Arctic Grey,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1080,56,6,2,29,14,0
+Lenovo Legion 7 16IRX9,8999,24.0,Intel Core i9-14900HX (14th Generation),16.0,Windows 11 Home,Eclipse Black,1TB SSD M.2,32,False,Integrated 99.9Wh,SSD M.2,1024.0,3200,2000,84,6,15,37,14,1
+HP 15-fd0018nx,2499,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Natural Silver,512GB SSD M.2,16,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,70,0,43,6,14,0
+Acer Aspire 3 A315-44P-R4GH,1549,24.0,AMD Ryzen 7-5700U,15.6,Dos,Pure Silver,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,7,0,53,14,14,0
+Dell Inspiron 15 3520,2099,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Windows 11 Home,Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,45,6,5,6,14,0
+Dell Inspiron 14 7430 2-in-1,2799,24.0,Intel Core i5-1335U (13th Gen),14.0,Windows 11 Home,Platinum Silver,512GB SSD M.2,8,True,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1200,53,6,51,9,14,0
+ThinkPad T14 Gen 5 (Intel),2799,36.0,Intel Core Ultra 7-150U,14.0,Windows 11 Professional,Black,512GB SSD M.2,16,False,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,33,8,5,30,14,0
+Acer Aspire 3 A315-58-56K8,1499,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,256GB SSD M.2,8,False,48Wh Li-ion battery,SSD M.2,256.0,1920,1080,45,0,53,13,14,0
+Dell Latitude 3540,1499,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,53,0,5,1,14,0
+Asus Vivobook X1605XA-MB101,2499,24.0,AMD Ryzen 9-7940HS,16.0,Dos,Cool Silver,512GB SSD M.2,16,False,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,512.0,1920,1200,17,0,8,5,14,0
+Acer Nitro V 15 ANV15-51-76QR,3699,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Obsidian Black,1TB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,1024.0,1920,1080,72,0,46,17,14,1
+apple MacBook Air M2 (2024),3699,24.0,Apple M2 chip,13.6,macOS Monterey,Midnight,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,37,15,13,0
+HP ProBook 450 15.6 inch G9 Notebook PC,1999,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Silver,512GB SSD M.2,8,False,"HP Long Life 3-cell, 42 Wh Li-ion",SSD M.2,512.0,1920,1080,47,0,58,24,14,0
+Acer Nitro 5 AN515-58-937L,4549,24.0,Intel Core i9-12900H (12th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,80,0,46,17,14,3
+IdeaPad Gaming 3 15IAH7,3999,24.0,Intel Core i7-12650H (12th Gen),15.6,Dos,Onyx Grey,512GB SSD M.2,16,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1080,67,0,47,46,14,0
+MacBook Air M2 15.3,4999,24.0,Apple M2 chip,15.3,macOS Ventura,Starlight,256GB SSD,8,False,Up to 18 hours of typical device usage,SSD,256.0,2880,1864,21,13,66,56,13,0
+Acer Aspire Lite AL16-51P-598C,1699,24.0,Intel Core i5-1235U (12th Gen),16.0,Dos,Steel Gray,512GB SSD M.2,8,False,Integrated 58Wh,SSD M.2,512.0,1920,1200,47,0,67,32,14,0
+Dell G15 5530 Gaming,5399,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,512GB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,512.0,1920,1080,73,0,10,18,14,3
+Asus Vivobook X1605VA-FPSK60,2849,24.0,Intel Core i9-13900H (13th Gen),16.0,Dos,Cool Silver,512GB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1200,81,0,8,4,14,0
+HP Victus Gaming 16-r0008nx,4799,24.0,Intel Core i7-13700H (13th Gen),16.1,Dos,Mica Silver,1TB SSD M.2,32,False,"4-cell, 70 Wh Li-ion polymer",SSD M.2,1024.0,1920,1080,74,0,36,10,14,1
+Apple MacBook Pro 14-inch M3 chip,8299,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,512GB SSD,16,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,63,20,13,3
+Dell G15 5530 Gaming,3899,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,512GB SSD M.2,16,False,"3 Cell, integrated 56Wh",SSD M.2,512.0,1920,1080,73,0,10,3,14,0
+Asus EXPERTBOOK B1400CBA-EB0355,2299,24.0,Intel Core i7-1255U (12th Gen),14.0,Dos,Star Black,512GB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,64,0,65,4,14,0
+Dell Inspiron 15 3520,1899,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Windows 11 Home,Black,256GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,256.0,1920,1080,45,6,5,6,14,0
+Asus Vivobook X1502ZA-EJ1359,2349,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,16,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,69,0,54,1,14,0
+Apple MacBook Pro M3,7199,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,512GB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,23,12,63,20,13,3
+Apple MacBook Pro 14-Inch M3 Pro,10999,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Silver,1TB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,1024.0,4480,2520,22,12,58,21,13,1
+HP 255 G9,1799,24.0,AMD Ryzen 7-5825U,15.6,Dos,Asteroid Silver,256GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,256.0,1920,1080,9,0,4,6,14,0
+ASUS ROG Strix G15 G513RC-HN148,3699,24.0,AMD Ryzen 7-6800H,15.6,Dos,ECLIPSE GRAY,1TB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,10,0,14,16,14,1
+apple MacBook Air M2,4999,24.0,Apple M2 chip,13.6,macOS Monterey,Starlight,512GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,21,10,66,51,13,0
+IdeaPad 1 15IAU7,2199,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Cloud Grey,512GB SSD M.2,16,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,64,0,7,1,14,0
+Acer Nitro 5 AN515-58-77NB,3799,24.0,Intel Core i7-12650H (12th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,67,0,46,17,14,0
+Asus ExpertBook B1 (B1402CVA-I716512B0D - 13th Gen Intel),2499,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Star Black,512GB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,70,0,65,4,14,0
+Acer Aspire 3 A315-58-58PT,1499,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Electric Blue,256GB SSD M.2,8,False,Lithium Ion (Li-Ion),SSD M.2,256.0,1920,1080,45,0,17,41,14,0
+HP 250 G10,1849,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Turbo silver with Aluminum Top Cover,512GB SSD M.2,8,False,"HP Long Life 3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,53,0,74,23,14,0
+IdeaPad Slim 3 16IAH8,1749,24.0,Intel Core i5-12450H (12th Gen),16.0,Dos,Arctic Grey,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,49,0,2,29,14,0
+Asus Vivobook X1500EA-EJ3652,1599,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Transparent Silver,512GB SSD M.2,8,False,Lithium Ion (Li-Ion) 2 Cell,SSD M.2,512.0,1920,1080,45,0,73,45,14,0
+ASUS ROG Strix G15 G513RC-HN092,3699,24.0,AMD Ryzen 7-6800H,15.6,Dos,ECLIPSE GRAY,512GB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,512.0,1920,1080,10,0,14,16,14,0
+Yoga 9 14IAP7,5499,24.0,Intel Core i7-1260P (12th Gen),14.0,Windows 11 Home,Oatmeal,1TB SSD M.2,16,True,"4 Cell, Integrated 70Wh",SSD M.2,1024.0,3840,2400,65,6,45,8,14,1
+ThinkBook 14 G4 IAP,5499,36.0,Intel Core i5-1235U (12th Gen),14.0,Windows 11 Professional,Mineral Grey,512GB SSD M.2,8,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,47,8,38,39,14,3
+Microsoft Surface Pro 9,3499,24.0,Intel Core i5-1245U (12th Gen) Evo Platform,13.0,Windows 11 Home,Green,256GB SSD M.2,8,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,50,6,24,54,14,0
+Lenovo IdeaPad Flex 5 14IRU8,2699,24.0,Intel Core i5-1335U (13th Gen),14.0,Windows 11 Home,Arctic Grey,512GB SSD M.2,8,True,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,53,6,2,30,14,0
+Huawei Matebook B3-420,1999,24.0,Intel Core i5-1135G7 (11th Gen),14.0,Windows 10 Professional,Space Gray,512GB SSD M.2,16,False,Lithium Polymer (Li-Po),SSD M.2,512.0,1920,1080,45,3,63,51,14,0
+Asus Vivobook X1502ZA-EJ1038,1599,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Icelight Silver,512GB SSD M.2,8,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1080,47,0,28,46,14,0
+ThinkPad T14s Gen 4 (Intel),1599,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Deep Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,70,8,11,31,14,0
+Asus Vivobook S15 S5507QA-MA001W,4699,24.0,Snapdragon X Elite X1E 78 100,15.6,Windows 11 Home,Cool Silver,1TB SSD M.2,32,False,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,1024.0,2880,1620,100,6,8,5,14,1
+ThinkPad X1 Carbon Gen 11,4699,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Deep Black,1TB SSD M.2,16,False,Integrated 57Wh,SSD M.2,1024.0,1920,1200,70,8,11,31,14,1
+Asus TUF Gaming FX507ZC4-HN007,3799,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Mecha Gray,1TB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,69,0,34,16,14,1
+Dell Vostro 15 3520,2649,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Home,Black,512GB SSD M.2,8,False,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,64,6,5,9,14,0
+apple MacBook Air M2,5299,24.0,Apple M2 chip,13.6,macOS Monterey,Silver,512GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,21,10,58,51,13,3
+Acer Nitro V 15 ANV15-51-59U0,2999,24.0,Intel Core i5-13420H (13th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,56,0,46,17,14,0
+Apple MacBook Air M3,5699,24.0,Apple M3 chip,13.6,macOS Sonoma,Space Gray,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,63,15,13,3
+Lenovo IdeaPad 1 15IAU7,1749,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,ABYSS Blue,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,47,0,0,1,14,0
+Huawei Matebook B3-420,1849,24.0,Intel Core i5-1135G7 (11th Gen),14.0,Windows 10 Professional,Space Gray,512GB SSD M.2,8,False,Lithium Polymer (Li-Po),SSD M.2,512.0,1920,1080,45,3,63,51,14,0
+Lenovo Legion Pro 5 16IRX9,6999,24.0,Intel Core i9-14900HX (14th Generation),16.0,Dos,Luna Grey,1TB SSD M.2,32,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,84,0,33,36,14,1
+Asus ExpertBook B1 (B1502CBA-NJ2034 - 12th Gen Intel),1899,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Star Black,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,47,0,65,4,14,0
+IdeaPad Slim 3 15IRH8,2399,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Arctic Grey,512GB SSD M.2,16,False,Integrated 47Wh,SSD M.2,512.0,1920,1080,72,0,2,29,14,0
+Microsoft Surface Pro 9,3699,24.0,Intel Core i5-1245U (12th Gen) Evo Platform,13.0,Windows 11 Home,Graphite,256GB SSD M.2,8,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,50,6,21,54,14,0
+Lenovo ThinkPad E16 Gen 2 Intel,3699,24.0,Intel Core Ultra 5-125U,16.0,Dos,Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,28,0,5,29,14,0
+Acer Nitro 5 AN517-41-R73F,3999,24.0,AMD Ryzen 7-5800H,17.3,Windows 11 Home,Shale Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,2560,1440,8,6,57,17,14,0
+Asus ROG Strix G614JU-N3111,5299,24.0,Intel Core i7-13650HX (13th Gen),16.0,Dos,Eclipse Gray,1TB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1200,73,0,16,22,14,1
+Yoga Slim 6 14IRH8,3899,24.0,Intel Core i7-13700H (13th Gen),14.0,Windows 11 Home,Storm Grey,1TB SSD M.2,16,False,Integrated 65Wh,SSD M.2,1024.0,1920,1200,74,6,70,34,14,1
+HP EliteBook 645 14 inch G9 Notebook PC,3899,36.0,AMD Ryzen 5-5625U,14.0,Windows 11 Professional,Silver,256GB SSD M.2,8,False,"HP Long Life 3-cell, 42 Wh Li-ion",SSD M.2,256.0,1920,1080,4,8,58,24,14,0
+Asus Vivobook X1500EP-EJ720,2199,24.0,Intel Core i7-1165G7 (11th Gen),15.6,Dos,Transparent Silver,512GB SSD M.2 + 32GB Intel Optane Memory,8,False,Lithium Ion (Li-Ion) 2 Cell,SSD M.2 + 32GB Intel Optane Memory,512.0,1920,1080,60,0,73,45,16,0
+Dell Latitude 3550,2199,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+Asus Vivobook X1605PA-MB037,1549,24.0,Intel Core i5-11300H (11th Gen),16.0,Dos,Indie Black,512GB SSD M.2,8,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1200,44,0,29,46,14,0
+ThinkPad E14 Gen 5 (Intel),1549,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Graphite Black,512GB SSD,8,False,Integrated 57Wh,SSD,512.0,1920,1200,70,0,22,31,13,0
+HP 255 G9,1399,24.0,AMD Ryzen 5-5625U,15.6,Dos,Asteroid Silver,256GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,256.0,1920,1080,4,0,4,6,14,0
+Asus TUF Gaming FX707VV-HX183,4899,24.0,Intel Core i7-13620H (13th Gen),17.3,Dos,Mecha Gray,1TB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,72,0,34,22,14,1
+Microsoft Surface Laptop 4 (13-Inch),2999,24.0,AMD Ryzen 5-4680U,13.5,Windows 10 Home,Platinum,256GB SSD,8,True,Up to 19 hours of typical device usage,SSD,256.0,2256,1504,0,1,49,57,13,0
+Asus Vivobook X1502ZA-EJ1181,1699,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,8,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1080,47,0,54,46,14,0
+Dell Latitude 3540,1699,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,53,0,5,1,14,0
+Acer Aspire 3 A315-58G-55XH,2049,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,1TB HDD,8,False,Lithium Ion (Li-Ion),HDD,1024.0,1920,1080,45,0,53,41,1,2
+Acer Nitro V 15 ANV15-41-R80C,2699,24.0,AMD Ryzen 5-7535HS,15.6,Dos,Obsidian Black,512GB SSD M.2,8,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,6,0,46,17,14,0
+Asus Vivobook X1502ZA-EJ1359,2299,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,69,0,54,1,14,0
+HP 15-fd0020nx,1849,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Natural Silver,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,53,0,43,6,14,0
+Lenovo Legion 5 16IRX9,6499,24.0,Intel Core i9-14900HX (14th Generation),16.0,Dos,Luna Grey,1TB SSD M.2 2280 PCIe 4.0x4 NVMe,16,False,Integrated 80Wh,SSD M.2 2280 PCIe 4.0x4 NVMe,1024.0,2560,1600,84,0,33,36,17,1
+Asus Vivobook X1605ZA-MB305,1849,24.0,Intel Core i5-1235U (12th Gen),16.0,Dos,Indie Black,512GB SSD M.2,8,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1200,47,0,29,46,14,0
+Asus TUF Gaming FX507ZU4-LP040,4199,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Mecha Gray,512GB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,512.0,1920,1080,69,0,34,22,14,0
+ThinkPad E14 Gen 4,4199,24.0,Intel Core i5-1235U (12th Gen),14.0,Dos,Black,256GB SSD M.2,8,False,Lithium 3 Cell,SSD M.2,256.0,1920,1080,47,0,5,39,14,0
+Dell Latitude 3550,4199,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+Dell Vostro 15 3520,1349,24.0,Intel Core i3-1215U (12th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,37,0,5,6,14,0
+apple MacBook Air M2,5299,24.0,Apple M2 chip,13.6,macOS Monterey,Space Gray,512GB SSD,8,False,Lithium Polymer (Li-Po),SSD,512.0,2560,1664,21,10,63,51,13,3
+ThinkPad T14 Gen 4 (Intel),5299,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Thunder Black,512GB SSD M.2,16,False,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,70,8,71,30,14,3
+Asus Vivobook X1504VA-NJ108,2299,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Cool Silver,512GB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,70,0,8,4,14,0
+Apple MacBook Pro M3,8099,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,1TB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,1024.0,3024,1964,23,12,63,20,13,1
+Legion Pro 5 16IRX8,6999,24.0,Intel Core i9-13900HX (13th Gen),16.0,Dos,Onyx Grey,1TB SSD M.2,32,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,83,0,47,36,14,1
+Asus Vivobook X1504VA-NJ089,1699,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,53,0,54,4,14,0
+apple MacBook Air M2 (2024),1699,24.0,Apple M2 chip,13.6,macOS Monterey,Silver,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,58,15,13,0
+HP ProBook 450 15.6 inch G10 Notebook PC,1699,24.0,Intel Core i5-1335U (13th Gen),15.6,Dos,Silver,512GB SSD M.2,8,False,"HP Long Life 3-cell, 42 Wh Li-ion",SSD M.2,512.0,1920,1080,53,0,58,24,14,0
+Microsoft Surface Pro 9,3699,24.0,Intel Core i5-1245U (12th Gen) Evo Platform,13.0,Windows 11 Home,Sapphire,256GB SSD M.2,8,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,50,6,55,54,14,0
+Asus EXPERTBOOK B1500CBA-EJ0094,2349,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Star Black,1TB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,1024.0,1920,1080,64,0,65,4,14,1
+HP 250 G10,2549,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Turbo silver with Aluminum Top Cover,512GB SSD M.2,16,False,"HP Long Life 3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,70,0,74,23,14,0
+IdeaPad 3 15IAU7,2099,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Arctic Grey,256GB SSD M.2,8,False,Integrated 45Wh,SSD M.2,256.0,1920,1080,64,0,2,28,14,0
+Asus ExpertBook B1402CBA-NK2746,2199,24.0,Intel Core i5-1235U (12th Gen),14.0,Dos,Star Black,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,47,0,65,4,14,0
+ThinkPad E15 Gen 4 (AMD),2199,24.0,AMD Ryzen 7-5825U,15.6,Windows 11 Professional,Black,512GB SSD M.2,8,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,9,8,5,17,14,0
+apple MacBook Air M2,3999,24.0,Apple M2 chip,13.6,macOS Monterey,Midnight,256GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,21,10,37,51,13,0
+HP 255 G9,1599,24.0,AMD Ryzen 5-5625U,15.6,Dos,Asteroid Silver,512GB SSD M.2,16,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,4,0,4,6,14,0
+Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Silver,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,58,15,13,3
+Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Midnight,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,37,15,13,3
+Vostro 3530,2399,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Carbon Black,512GB SSD M.2,8,False,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,70,0,6,9,14,0
+Asus Vivobook X1500EP-EJ648,1649,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Transparent Silver,512GB SSD M.2 + 32GB Intel Optane Memory,8,False,Lithium Ion (Li-Ion) 2 Cell,SSD M.2 + 32GB Intel Optane Memory,512.0,1920,1080,45,0,73,45,16,0
+Dell G15 5530 Gaming,7399,24.0,Intel Core i9-13900HX (13th Gen),15.6,Dos,Dark Shadow Grey,2x 1TB SSD M.2,32,False,"6-Cell Battery, 86WH, integrated",SSD M.2,1024.0,1920,1080,83,0,10,18,14,1
+Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Starlight,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,66,15,13,3
+MacBook Air M2 15.3 2023,4499,24.0,Apple M2 chip,15.3,macOS Ventura,Space Gray,256GB SSD,8,False,Up to 18 hours of typical device usage,SSD,256.0,2880,1864,21,13,63,56,13,0
+IdeaPad 3 15IAU7,2249,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Arctic Grey,512GB SSD M.2,8,False,Integrated 45Wh,SSD M.2,512.0,1920,1080,64,0,2,28,14,0
+HP EliteBook 645 14 inch G9 Notebook PC,2999,36.0,AMD Ryzen 7-5825U,14.0,Windows 11 Professional,Silver,512GB SSD M.2,16,False,"HP Long Life 3-cell, 42 Wh Li-ion",SSD M.2,512.0,1920,1080,9,8,58,24,14,0
+ThinkPad E15 Gen 4,2999,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Black,256GB SSD M.2,8,False,Lithium 3 Cell,SSD M.2,256.0,1920,1080,47,0,5,39,14,0
+Dell G15 5530 Gaming,5899,24.0,Intel Core i7-13650HX (13th Gen),15.6,Windows 11 Home,Dark Shadow Grey,1TB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,1024.0,1920,1080,73,6,10,18,14,1
+Asus TUF Gaming FA507NV-LP020,4499,24.0,AMD Ryzen 7-7735HS,15.6,Dos,Mecha Gray,1TB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,13,0,34,22,14,1
+Asus Vivobook X1504VA-NJ400,2349,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Cool Silver,1TB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,1024.0,1920,1080,70,0,8,4,14,0
+ThinkPad E16 Gen 1 (Intel),2349,24.0,Intel Core i7-13700H (13th Gen),16.0,Dos,Graphite Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,74,0,22,31,14,0
+HP Dragonfly 13.5 inch G4 Notebook PC (818N5EA),6999,36.0,Intel Core i7-1355U (13th Gen),13.5,Windows 11 Professional,Slate blue,1TB SSD M.2,32,False,"HP Long Life 6-cell, 68 Wh Li-ion polymer",SSD M.2,1024.0,1920,1280,70,8,61,27,14,1
+Lenovo IdeaPad 5 15IAL7,2199,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,ABYSS Blue,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,47,0,0,17,14,0
+Acer Aspire 5 A515-57G-78ZN,2849,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Steel Gray,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,64,0,67,14,14,0
+HP Victus Gaming 16-s0008nx,4299,24.0,AMD Ryzen 7-7840HS,16.1,Dos,Mica Silver,1TB SSD M.2,16,False,"4-cell, 70 Wh Li-ion polymer",SSD M.2,1024.0,1920,1080,14,0,36,10,14,1
+Lenovo IdeaPad Slim 3 15IRH8,1749,24.0,Intel Core i5-13420H (13th Gen),15.6,Dos,Arctic Grey,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1080,56,0,2,29,14,0
+Asus TUF Gaming FA507XI-LP018,5499,24.0,AMD Ryzen 9-7940HS,15.6,Dos,Mecha Gray,1TB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,17,0,34,22,14,1
+Acer Nitro V 15 ANV15-51-76HP,4299,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,72,0,46,17,14,0
+Apple MacBook Air M3,6799,24.0,Apple M3 chip,13.6,macOS Sonoma,Space Gray,512GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,63,15,13,3
+Dell G15 5530 Gaming,5499,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,1TB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,1024.0,1920,1080,73,0,10,18,14,1
+Lenovo Legion 5 16IRX9,6299,24.0,Intel Core i7-14650HX (14th Generation),16.0,Windows 11 Home,Luna Grey,512GB SSD M.2,16,False,Integrated 80Wh,SSD M.2,512.0,2560,1600,77,6,33,36,14,3
+Asus Vivobook X1504VA-NJ379,2199,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Cool Silver,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,2560,1080,70,0,8,4,14,0
+Apple MacBook Air 13-inch M3,4649,24.0,Apple M3 chip,13.6,macOS Sonoma,Silver,256GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,23,12,58,15,13,0
+Dell G15 5530 Gaming,6699,24.0,Intel Core i9-13900HX (13th Gen),15.6,Dos,Dark Shadow Grey,1TB SSD M.2,32,False,"6-Cell Battery, 86WH, integrated",SSD M.2,1024.0,1920,1080,83,0,10,18,14,1
+IdeaPad 1 15IAU7,2099,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Cloud Grey,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,64,0,7,1,14,0
+ASUS ROG Strix G17 G713RC-HX040,3899,24.0,AMD Ryzen 7-6800H,17.3,Dos,ECLIPSE GRAY,1TB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,10,0,14,16,14,1
+Apple MacBook Pro 14-Inch M3 Pro,10999,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Space Black,1TB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,1024.0,4480,2520,22,12,62,21,13,1
+Dell Vostro 15 3520,1849,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Black,512GB SSD M.2,16,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,47,0,5,6,14,0
+Asus TUF Gaming FX707ZC4-HX062,3149,24.0,Intel Core i5-12500H (12th Gen),17.3,Dos,Mecha Gray,1TB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,51,0,34,16,14,1
+Yoga Slim 7 ProX 14ARH7,3599,24.0,AMD Ryzen 7-6800HS,14.5,Windows 11 Home,Onyx Grey,512GB SSD M.2,16,False,"4 Cell, Integrated 70Wh",SSD M.2,512.0,3072,1920,11,6,47,8,14,0
+Apple MacBook Air M3,5799,24.0,Apple M3 chip,13.6,macOS Sonoma,Starlight,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,66,15,13,3
+Lenovo Legion 5 Pro 16IRX9,8499,24.0,Intel Core i7-14700K (14th Generation),16.0,Windows 11 Home,Onyx Grey,1TB SSD M.2,32,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,79,6,47,36,14,1
+Latitude 3450,8499,24.0,Intel Core i5-1335U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,53,0,5,2,14,3
+Lenovo IdeaPad 1 15IAU7,1749,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Cloud Grey,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,47,0,7,1,14,0
+Microsoft Surface Studio,10999,24.0,Quad-core Intel Core H35 i7-11370H (11th Gen),14.4,Windows 11 Home,Platinum,2TB SSD,32,True,Up to 18 hours of typical device usage,SSD,2048.0,2400,1600,97,6,49,56,13,1
+Asus ExpertBook B1 (B1402CVA-I58512B0D - 13th Gen Intel),2099,24.0,Intel Core i5-1335U (13th Gen),14.0,Dos,Star Black,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,53,0,65,4,14,0
+Microsoft Surface Pro 9,5999,24.0,Intel Core i7-1265U (12th Gen) Evo Platform,13.0,Windows 11 Home,Graphite,256GB SSD M.2,16,True,Up to 15.5 hours of typical device usage,SSD M.2,256.0,2880,1920,68,6,21,54,14,3
+ThinkBook Plus G3 IAP,5999,36.0,Intel Core i7-12700H (12th Gen),17.3,Windows 11 Professional,Storm Grey,1TB SSD M.2,32,True,Lithium 4 Cell,SSD M.2,1024.0,3072,1440,69,8,70,40,14,1
+IdeaPad 3 15IAU7,2349,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Arctic Grey,512GB SSD M.2,16,False,Integrated 45Wh,SSD M.2,512.0,1920,1080,64,0,2,28,14,0
+IdeaPad 1 15IAU7,2199,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,ABYSS Blue,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,64,0,0,1,14,0
+apple MacBook Air M2,3999,24.0,Apple M2 chip,13.6,macOS Monterey,Silver,256GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1664,21,10,58,51,13,0
+Lenovo ThinkPad E14 Gen 6 Intel,3999,24.0,Intel Core Ultra 7-155H,14.0,Dos,Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,34,0,5,31,14,0
+Dell Latitude 3420,3999,24.0,Intel Core i7-1165G7 (11th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,60,0,5,6,14,0
+Acer Aspire 3 A315-24P-R9P0,1349,24.0,AMD Ryzen 5-7520U,15.6,Dos,Pure Silver,512GB SSD M.2,8,False,50Wh Li-ion battery,SSD M.2,512.0,1920,1080,5,0,53,14,14,0
+HP Elite x360 1040 14 inch G9 2-in-1,5999,36.0,Intel Core i7-1255U (12th Gen),14.0,Windows 11 Professional,Silver,512GB SSD M.2,16,True,"HP Long Life 3-cell, 51 Wh Li-ion",SSD M.2,512.0,1920,1200,64,8,58,25,14,3
+Vostro 3520,1499,24.0,Intel Core i3-1215U (12th Gen),15.6,Windows 11 Home,Carbon Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,37,6,6,6,14,0
+Lenovo IdeaPad Slim 3 15IRU8,1699,24.0,Intel Core i3-1315U (13th Gen),15.6,Windows 11 Home,Arctic Grey,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1080,39,6,2,29,14,0
+Lenovo IdeaPad Slim 3 15IRH8,1749,24.0,Intel Core i5-13420H (13th Gen),15.6,Dos,ABYSS Blue,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1080,56,0,0,29,14,0
+Lenovo IdeaPad Slim 3 14IRH8,2699,24.0,Intel Core i7-13620H (13th Gen),14.0,Windows 11 Home,Arctic Grey,1TB SSD M.2,16,False,Integrated 47Wh,SSD M.2,1024.0,1920,1080,72,6,2,29,14,1
+ThinkBook 14 G4 IAP,2699,36.0,Intel Core i7-1255U (12th Gen),14.0,Windows 10 Professional,Mineral Grey,512GB SSD M.2,16,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,64,3,38,39,14,0
+Asus ExpertBook B1 (B1502CBA-NJ2035 - 12th Gen Intel),2299,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Star Black,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,64,0,65,4,14,0
+Asus TUF Gaming FX707VV4-HX033,4899,24.0,Intel Core i7-13700H (13th Gen),17.3,Dos,Mecha Gray,1TB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,74,0,34,22,14,1
+Asus TUF Gaming FX507ZC4-HN321,2799,24.0,Intel Core i5-12500H (12th Gen),15.6,Dos,Mecha Gray,512GB SSD M.2,8,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,512.0,1920,1080,51,0,34,16,14,0
+Dell Latitude 3440,2799,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+IdeaPad Gaming 3 15ACH6,2199,24.0,AMD Ryzen 5-5500H,15.6,Dos,Shadow Black,512GB SSD M.2,16,False,Integrated 45Wh,SSD M.2,512.0,1920,1080,1,0,56,28,14,0
+Yoga Book 9 13IRU8,8999,24.0,Intel Core i7-1355U (13th Gen),13.3,Windows 11 Home,Tidal Teal,1TB SSD M.2,16,True,Integrated 80Wh,SSD M.2,1024.0,2880,1800,70,6,72,36,14,1
+Dell Vostro 15 3520,2899,24.0,Intel Core i7-1255U (12th Gen),15.6,Windows 11 Home,Carbon Black,512GB SSD M.2,8,False,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,64,6,6,9,14,0
+Lenovo ThinkPad E16 Gen 1,2899,24.0,Intel Core i7-1355U (13th Gen),16.0,Dos,Graphite Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,70,0,22,31,14,0
+Lenovo LOQ 15IRX9,4799,24.0,Intel Core i7-13650HX (13th Gen),15.6,Windows 11 Home,Gray,512GB SSD M.2,24,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,73,6,23,33,14,3
+Dell G16 7630 Gaming,7799,24.0,Intel Core i9-13900HX (13th Gen),16.0,Dos,Black,1TB SSD M.2,32,False,"6-Cell Battery, 86WH, integrated",SSD M.2,1024.0,2560,1600,83,0,5,18,14,1
+ThinkPad E14 Gen 5 (Intel),1249,24.0,Intel Core i5-1335U (13th Gen),14.0,Dos,Graphite Black,256GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,256.0,1920,1200,53,0,22,29,14,0
+ThinkPad E14 Gen 5 (Intel),1399,24.0,Intel Core i7-13700H (13th Gen),14.0,Dos,Graphite Black,512GB SSD,16,False,Integrated 57Wh,SSD,512.0,1920,1200,74,0,22,31,13,0
+ASUS TUF FX507ZC4-HN008,3399,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Gray,512GB SSD M.2,16,False,"56WHrs, 4S1P, 4-cell Li-ion",SSD M.2,512.0,1920,1080,69,0,23,16,14,0
+Apple MacBook Pro M3 Pro,9299,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Space Black,512GB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,22,12,62,21,13,3
+Acer Nitro 5 AN515-58-71EW,3399,24.0,Intel Core i7-12650H (12th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,16,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,67,0,46,17,14,0
+HP 255 G9,1999,24.0,AMD Ryzen 7-5825U,15.6,Dos,Asteroid Silver,512GB SSD M.2,16,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,9,0,4,6,14,0
+Dell G15 5530 Gaming,5299,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Dark Shadow Grey,512GB SSD M.2,16,False,"6-Cell Battery, 86WH, integrated",SSD M.2,512.0,1920,1080,73,0,10,18,14,3
+HP EliteBook 640 14 inch G9,2399,36.0,Intel Core i5-1235U (12th Gen),14.0,Dos,Silver,256GB SSD M.2,8,False,"HP Long Life 3-cell, 51 Wh Li-ion",SSD M.2,256.0,1920,1080,47,0,58,25,14,0
+Lenovo IdeaPad Flex 5 14ALC7,2094,24.0,AMD Ryzen 5-5500U,14.0,Windows 11 Home,Storm Grey,512GB SSD M.2,8,True,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,2,6,70,30,14,0
+ThinkPad T14s Gen 4 (Intel),2094,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Deep Black,1TB SSD M.2,16,False,Integrated 57Wh,SSD M.2,1024.0,1920,1200,70,8,11,31,14,1
+Acer Nitro 5 AN515-58-542X,2999,24.0,Intel Core i5-12500H (12th Gen),15.6,Dos,Obsidian Black,512GB SSD M.2,8,False,57Wh Li-ion battery,SSD M.2,512.0,1920,1080,51,0,46,17,14,0
+Acer Gaming Predator Helios Neo 16 PHN16-71-71P2,5799,24.0,Intel Core i7-13700HX (13th Gen),16.0,Windows 11 Home,Obsidian Black,512GB SSD M.2,16,False,"4-cell, 90 Wh Li-ion polymer",SSD M.2,512.0,1920,1200,75,6,46,11,14,3
+Asus Vivobook X1500EP-BQ588,1999,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Indie Black,1TB SSD M.2,8,False,Lithium Ion (Li-Ion) 2 Cell,SSD M.2,1024.0,1920,1080,45,0,29,45,14,0
+Lenovo Gaming LOQ 16IRH8,4499,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Storm Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1200,72,0,70,33,14,3
+Apple MacBook Pro M3,8099,24.0,Apple M3 chip,14.2,macOS Sonoma,Silver,1TB SSD,8,False,70-watt-hour lithium-polymer battery,SSD,1024.0,3024,1964,23,12,58,20,13,1
+Dell Inspiron 14 7430 2-in-1,3399,24.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Home,Platinum Silver,512GB SSD M.2,16,True,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1200,70,6,51,9,14,0
+Asus ROG Strix G614JI-N3082,7999,24.0,Intel Core i7-13650HX (13th Gen),16.0,Dos,Eclipse Gray,1TB SSD M.2,32,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1200,73,0,16,22,14,1
+Asus Vivobook X1504ZA-NJ672,1699,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Cool Silver,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,47,0,8,4,14,0
+HP 250 G10,2399,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Turbo silver with Aluminum Top Cover,512GB SSD M.2,8,False,"HP Long Life 3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,70,0,74,23,14,0
+Acer Aspire 3 A315-58G-5657,1799,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,1TB HDD + 256GB SSD M.2,8,False,Lithium Ion (Li-Ion),HDD + 256GB SSD M.2,1024.0,1920,1080,45,0,53,41,2,2
+Asus Vivobook 14 Flip TP3402ZA-LZ058W,2649,24.0,Intel Core i5-12500H (12th Gen),14.0,Windows 11 Home,Cool Silver,512GB SSD M.2,8,True,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,512.0,1920,1200,51,6,8,5,14,0
+Dell Vostro 15 3520,1749,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,47,0,5,6,14,0
+Dell Vostro 15 3520,2349,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,64,0,5,6,14,0
+Asus Vivobook X1504VA-NJ093,2449,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,70,0,54,4,14,0
+ThinkPad E14 Gen 5 (Intel),2449,24.0,Intel Core i5-1335U (13th Gen),14.0,Dos,Graphite Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,53,0,22,29,14,0
+Surface Pro 8,3699,24.0,Intel Core i5-1135G7 (11th Gen),13.0,Windows 11 Home,Platinum,256GB SSD,8,True,Up to 16 hours of typical device usage,SSD,256.0,2880,1920,45,6,49,55,13,0
+Lenovo LOQ 15IRH8,2899,24.0,Intel Core i5-13420H (13th Gen),15.6,Dos,Storm Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,56,0,70,33,14,0
+ThinkBook 14 G4 IAP,2899,36.0,Intel Core i7-1255U (12th Gen),14.0,Windows 11 Professional,Mineral Grey,512GB SSD M.2,16,False,Lithium 3 Cell,SSD M.2,512.0,1920,1080,64,8,38,39,14,0
+Lenovo Legion 5 16IRX9,5549,24.0,Intel Core i7-14650HX (14th Generation),16.0,Dos,Luna Grey,1TB SSD M.2,16,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,77,0,33,36,14,1
+Acer Gaming Predator Helios Neo 16 PHN16-71-74ZT,5299,24.0,Intel Core i7-13700HX (13th Gen),16.0,Windows 11 Home,Obsidian Black,512GB SSD M.2,16,False,"4-cell, 90 Wh Li-ion polymer",SSD M.2,512.0,1920,1200,75,6,46,11,14,3
+Apple MacBook Pro 16-Inch M3 Pro,11299,24.0,Apple M2 Pro chip,16.2,macOS Sonoma,Silver,512GB SSD,18,False,100-watt-hour lithium-polymer battery,SSD,512.0,3456,2234,20,12,58,0,13,3
+MacBook Air M1 2020,3199,24.0,Apple M1 chip,13.3,macOS Big Sur,Silver,256GB SSD,8,False,Lithium Polymer (Li-Po),SSD,256.0,2560,1600,19,9,58,51,13,0
+Lenovo LOQ 15IRX9,2999,24.0,Intel Core i5-13450HX (13th Gen),15.6,Dos,Gray,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,57,0,23,33,14,0
+Lenovo Legion 5 16IRX9,6999,24.0,Intel Core i7-14650HX (14th Generation),16.0,Windows 11 Home,Luna Grey,1TB SSD M.2,16,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,77,6,33,36,14,1
+HP EliteBook 830 G8,6999,36.0,Intel Core i7-1185G7 vPro (11th Gen),13.3,Windows 10 Professional,Silver,256GB SSD M.2,8,False,"HP Long Life 3-cell, 53 Wh Li-ion",SSD M.2,256.0,1920,1080,62,3,58,26,14,3
+Dell Latitude 5440,6999,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Gray,512GB SSD M.2,16,False,"3 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,70,0,23,2,14,3
+ThinkPad X1 Carbon Gen 11,6999,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Deep Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,70,8,11,31,14,3
+ThinkPad E16 Gen 1 (Intel),6999,24.0,Intel Core i7-1355U (13th Gen),16.0,Dos,Graphite Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,70,0,22,29,14,3
+apple MacBook Air M2 (2024),6999,24.0,Apple M2 chip,13.6,macOS Monterey,Starlight,256GB SSD,16,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,21,10,66,15,13,3
+Dell Latitude 3440,6999,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,3
+Asus TUF Gaming FX507VU-LP165,4299,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Mecha Gray,512GB SSD M.2,16,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,512.0,1920,1080,72,0,34,22,14,0
+Dell Latitude 3540,4299,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+Asus TUF Gaming FX507ZV4-LP114,4899,24.0,Intel Core i7-12700H (12th Gen),15.6,Dos,Mecha Gray,1TB SSD M.2,32,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,69,0,34,22,14,1
+Asus Vivobook 14 Flip TP3402ZA-LZ122W,2899,24.0,Intel Core i7-12700H (12th Gen),14.0,Windows 11 Home,Cool Silver,512GB SSD M.2,16,True,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,512.0,1920,1200,69,6,8,5,14,0
+Apple MacBook Air 13-inch M3,4649,24.0,Apple M3 chip,13.6,macOS Sonoma,Space Gray,256GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,256.0,2560,1664,23,12,63,15,13,0
+Lenovo LOQ 15IRX9 Gaming,4349,24.0,Intel Core i7-13650HX (13th Gen),15.6,Dos,Luna Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,73,0,33,33,14,0
+Acer Aspire 3 A315-58-57LP,1499,24.0,Intel Core i5-1135G7 (11th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,36Wh Li-ion battery,SSD M.2,512.0,1920,1080,45,0,53,7,14,0
+Acer Aspire 3 A315-59G-789P,2149,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Pure Silver,512GB SSD M.2,8,False,40Wh Li-ion battery,SSD M.2,512.0,1920,1080,64,0,53,12,14,0
+HP 250 G10,2999,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Turbo silver with Aluminum Top Cover,512GB SSD M.2,16,False,"HP Long Life 3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,70,0,74,23,14,0
+Asus Vivobook Go 15 E1504GA-NJ340,1299,24.0,Intel Core i3-N305,15.6,Dos,Cool Silver,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,41,0,8,4,14,0
+MacBook Air 15-inch M3 (2024),7499,24.0,Apple M3 chip,15.3,macOS Sonoma,Midnight,512GB SSD,16,False,66.5-watt‑hour lithium‑polymer battery (Up to 18 hours),SSD,512.0,2880,1864,23,12,37,19,13,3
+Asus Vivobook 14 Flip TP3402VA-LZ144W,3649,24.0,Intel Core i9-13900H (13th Gen),14.0,Windows 11 Home,Cool Silver,1TB SSD M.2,16,True,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,1024.0,1920,1200,81,6,8,5,14,1
+Asus TUF Gaming FX507VI-LP073,5999,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Jaeger Gray,1TB SSD M.2,32,False,"90WHrs, 4S1P, 4-cell Li-ion",SSD M.2,1024.0,1920,1080,72,0,32,22,14,1
+Asus Vivobook X1504VA-NJ107,2599,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Cool Silver,1TB SSD M.2,16,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,1024.0,1920,1080,70,0,8,4,14,1
+Latitude 3450,2599,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Black,512GB SSD M.2,8,False,"3 Cell, Integrated 42Wh",SSD M.2,512.0,1920,1080,70,0,5,1,14,0
+Apple MacBook Air M3,5799,24.0,Apple M3 chip,13.6,macOS Sonoma,Midnight,512GB SSD,8,False,52.6-watt‑hour lithium‑polymer battery,SSD,512.0,2560,1664,23,12,37,15,13,3
+Lenovo ThinkPad E14 Gen 6 Intel,5799,24.0,Intel Core Ultra 5-125U,14.0,Dos,Black,512GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,512.0,1920,1200,28,0,5,29,14,3
+ThinkPad X1 Yoga Gen 8,5799,36.0,Intel Core i7-1355U (13th Gen),14.0,Windows 11 Professional,Storm Grey,1TB SSD M.2,32,True,Integrated 57Wh,SSD M.2,1024.0,1920,1200,70,8,70,31,14,1
+ThinkPad E16 Gen 1 (Intel),5799,24.0,Intel Core i5-1335U (13th Gen),16.0,Dos,Graphite Black,256GB SSD M.2,8,False,Integrated 47Wh,SSD M.2,256.0,1920,1200,53,0,22,29,14,3
+Lenovo Legion Pro 5 16IRX9,5899,24.0,Intel Core i7-14650HX (14th Generation),16.0,Dos,Luna Grey,1TB SSD M.2,16,False,Integrated 80Wh,SSD M.2,1024.0,2560,1600,77,0,33,36,14,1
+Lenovo Gaming LOQ 15APH8,3499,24.0,AMD Ryzen 7-7840HS,15.6,Dos,Storm Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,14,0,70,33,14,0
+Asus Vivobook 14 Flip TP3402VA-LZ137W,2699,24.0,Intel Core i5-13500H (13th Gen),14.0,Windows 11 Home,Cool Silver,512GB SSD M.2,8,True,"3-cell Li-ion, 50WHrs, 3S1P",SSD M.2,512.0,1920,1200,58,6,8,5,14,0
+ThinkPad E15 Gen 4,2699,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Black,512GB SSD,8,False,Lithium 3 Cell,SSD,512.0,1920,1080,64,0,5,39,13,0
+Apple MacBook Pro M3 Pro,9299,24.0,Apple M3 Pro chip,14.2,macOS Sonoma,Silver,512GB SSD,18,False,72.4-watt-hour lithium-polymer battery,SSD,512.0,3024,1964,22,12,58,21,13,3
+Asus Vivobook X1504ZA-NJ018,1499,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Quiet Blue,512GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,512.0,1920,1080,47,0,54,4,14,0
+Lenovo IdeaPad Flex 5 14ALC7,2594,24.0,AMD Ryzen 7-5700U,14.0,Windows 11 Home,Storm Grey,512GB SSD M.2,16,True,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,7,6,70,30,14,0
+Apple MacBook Pro 14-inch M3 chip,8999,24.0,Apple M3 chip,14.2,macOS Sonoma,Space Gray,1TB SSD,16,False,70-watt-hour lithium-polymer battery,SSD,1024.0,3024,1964,23,12,63,20,13,1
+Dell Latitude 3420,8999,24.0,Intel Core i5-1135G7 (11th Gen),14.0,Dos,Black,256GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,256.0,1920,1080,45,0,5,6,14,3
+Lenovo IdeaPad Flex 5 14IRU8,1999,24.0,Intel Core i3-1315U (13th Gen),14.0,Windows 11 Home,Arctic Grey,512GB SSD M.2,8,True,Integrated 52.5Wh,SSD M.2,512.0,1920,1200,39,6,2,30,14,0
+HP ProBook 450 G10,1999,24.0,Intel Core i7-1355U (13th Gen),15.6,Dos,Silver,512GB SSD M.2,16,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1080,70,0,58,46,14,0
+Asus Vivobook X1605VA-MB328,2849,24.0,Intel Core i9-13900H (13th Gen),16.0,Dos,Indie Black,512GB SSD M.2,16,False,Lithium Ion (Li-Ion) 3 Cell,SSD M.2,512.0,1920,1200,81,0,29,46,14,0
+ThinkPad E14 Gen 5 (Intel),2849,24.0,Intel Core i7-1355U (13th Gen),14.0,Dos,Graphite Black,512GB SSD,8,False,Integrated 47Wh,SSD,512.0,1920,1200,70,0,22,29,13,0
+Lenovo ThinkPad E16 Gen 2 Intel,2849,24.0,Intel Core Ultra 7-155H,16.0,Dos,Black,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,34,0,5,31,14,0
+Lenovo Gaming LOQ 15IRH8,3999,24.0,Intel Core i7-13620H (13th Gen),15.6,Dos,Storm Grey,512GB SSD M.2,16,False,Integrated 60Wh,SSD M.2,512.0,1920,1080,72,0,70,33,14,0
+HP 15s-fq5038nx,1899,24.0,Intel Core i5-1235U (12th Gen),15.6,Dos,Natural Silver,512GB SSD M.2,8,False,"3-cell, 41 Wh Li-ion",SSD M.2,512.0,1920,1080,47,0,43,6,14,0
+Dell Vostro 15 3520,2899,24.0,Intel Core i7-1255U (12th Gen),15.6,Dos,Grey Aluminum,512GB SSD M.2,8,False,"4 Cell, integrated 54Wh",SSD M.2,512.0,1920,1080,64,0,27,9,14,0
+Asus Vivobook Go 15 E1504GA-NJ255,1149,24.0,Intel Core i3-N305,15.6,Dos,Cool Silver,256GB SSD M.2,8,False,"3-cell Li-ion, 42WHrs, 3S1P",SSD M.2,256.0,1920,1080,41,0,8,4,14,0
+MacBook Air M1 2020,2699,24.0,Apple M1 chip,13.3,macOS Big Sur,Space Gray,256GB SSD,8,False,Lithium Ion Polymer,SSD,256.0,2560,1600,19,9,63,47,13,0
+IdeaPad Slim 5 14Q8X9,3699,24.0,Snapdragon X Plus X1P 42 100,15.6,Windows 11 Home,Cloud Grey,512GB SSD M.2,16,False,Integrated 57Wh,SSD M.2,512.0,1920,1200,102,6,7,31,14,0
